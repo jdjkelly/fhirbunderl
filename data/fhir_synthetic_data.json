@@ -1,0 +1,5002 @@
+[
+  {
+    "statement": "A 45-year-old female with a history of diabetes presents for her annual health assessment.",
+    "resource_type": "Patient",
+    "id": 0
+  },
+  {
+    "statement": "A 45-year-old female with a history of diabetes presents for her annual physical examination.",
+    "resource_type": "Patient",
+    "id": 1
+  },
+  {
+    "statement": "A 45-year-old woman with diabetes scheduled for a follow-up appointment to review her blood sugar control.",
+    "resource_type": "Patient",
+    "id": 2
+  },
+  {
+    "statement": "A 45-year-old female with a history of diabetes presents for an annual physical examination and medication review.",
+    "resource_type": "Patient",
+    "id": 3
+  },
+  {
+    "statement": "A 45-year-old female with a history of diabetes presents for her annual physical examination.",
+    "resource_type": "Patient",
+    "id": 4
+  },
+  {
+    "statement": "A 45-year-old female with a history of asthma presents for a routine follow-up and medication review.",
+    "resource_type": "Patient",
+    "id": 5
+  },
+  {
+    "statement": "A 45-year-old female with a history of asthma presented for an annual physical examination and medication review.",
+    "resource_type": "Patient",
+    "id": 6
+  },
+  {
+    "statement": "A 45-year-old female with a history of asthma schedules a follow-up appointment for respiratory evaluation.",
+    "resource_type": "Patient",
+    "id": 7
+  },
+  {
+    "statement": "A 45-year-old woman with a history of asthma visits for a follow-up after recent respiratory infection.",
+    "resource_type": "Patient",
+    "id": 8
+  },
+  {
+    "statement": "A 45-year-old woman with diabetes and hypertension is scheduled for a follow-up appointment next week.",
+    "resource_type": "Patient",
+    "id": 9
+  },
+  {
+    "statement": "A 45-year-old female with a history of diabetes schedules a follow-up appointment for routine care.",
+    "resource_type": "Patient",
+    "id": 10
+  },
+  {
+    "statement": "Dr. Emily Chen, a cardiologist, performed the echocardiogram and reviewed the patient's heart function results.",
+    "resource_type": "Practitioner",
+    "id": 11
+  },
+  {
+    "statement": "Dr. Emily Chen is the primary care provider coordinating treatment for a patient recovering from knee surgery.",
+    "resource_type": "Practitioner",
+    "id": 12
+  },
+  {
+    "statement": "A primary care doctor orders lab tests and updates the treatment plan for a diabetic patient during a follow-up visit.",
+    "resource_type": "Practitioner",
+    "id": 13
+  },
+  {
+    "statement": "Dr. Emily Chen, a cardiologist, completed the initial consultation and ordered diagnostic tests for a patient with arrhythmia.",
+    "resource_type": "Practitioner",
+    "id": 14
+  },
+  {
+    "statement": "Dr. Lee is the primary care provider managing diabetes treatment for a 58-year-old patient with multiple comorbidities.",
+    "resource_type": "Practitioner",
+    "id": 15
+  },
+  {
+    "statement": "Dr. Emily Chen is the primary care provider managing the treatment plan for a patient with type 2 diabetes.",
+    "resource_type": "Practitioner",
+    "id": 16
+  },
+  {
+    "statement": "Dr. Lee, a cardiologist, performed the initial consultation for a patient presenting with irregular heartbeat symptoms.",
+    "resource_type": "Practitioner",
+    "id": 17
+  },
+  {
+    "statement": "Dr. Emily Chen, a cardiologist, conducted a thorough evaluation of the patient\u2019s arrhythmia symptoms during the clinic visit.",
+    "resource_type": "Practitioner",
+    "id": 18
+  },
+  {
+    "statement": "Dr. Emily Nguyen is the primary care provider coordinating treatment for a diabetic patient\u2019s ongoing management.",
+    "resource_type": "Practitioner",
+    "id": 19
+  },
+  {
+    "statement": "Dr. Lee, a board-certified cardiologist, performed the initial assessment and coordinated the patient\u2019s heart failure treatment plan.",
+    "resource_type": "Practitioner",
+    "id": 20
+  },
+  {
+    "statement": "Dr. Lee, a cardiologist, conducted a follow-up consultation for a patient with newly diagnosed atrial fibrillation.",
+    "resource_type": "Practitioner",
+    "id": 21
+  },
+  {
+    "statement": "The cardiology clinic coordinates care and manages referrals for patients with heart conditions in the regional healthcare network.",
+    "resource_type": "Organization",
+    "id": 22
+  },
+  {
+    "statement": "The primary care clinic coordinates care for diabetic patients across multiple specialists within the healthcare network.",
+    "resource_type": "Organization",
+    "id": 23
+  },
+  {
+    "statement": "The cardiology clinic coordinates follow-up appointments and manages referrals for patients with heart conditions.",
+    "resource_type": "Organization",
+    "id": 24
+  },
+  {
+    "statement": "The regional hospital network coordinates care across multiple clinics and specialty centers in the metropolitan area.",
+    "resource_type": "Organization",
+    "id": 25
+  },
+  {
+    "statement": "A regional hospital network coordinates care between primary clinics, specialty centers, and urgent care facilities within the city.",
+    "resource_type": "Organization",
+    "id": 26
+  },
+  {
+    "statement": "The cardiology clinic coordinates outpatient services and manages referrals for patients with heart conditions.",
+    "resource_type": "Organization",
+    "id": 27
+  },
+  {
+    "statement": "A regional hospital coordinates care among various clinics and specialists within its healthcare network.",
+    "resource_type": "Organization",
+    "id": 28
+  },
+  {
+    "statement": "The cardiology clinic coordinates referrals and manages patient appointments for specialized heart care services.",
+    "resource_type": "Organization",
+    "id": 29
+  },
+  {
+    "statement": "The cardiology clinic coordinates care for patients requiring specialized heart failure management and follow-up appointments.",
+    "resource_type": "Organization",
+    "id": 30
+  },
+  {
+    "statement": "The local clinic coordinates with specialists and labs to provide comprehensive diabetes care for community patients.",
+    "resource_type": "Organization",
+    "id": 31
+  },
+  {
+    "statement": "The cardiology clinic coordinates care and schedules follow-up appointments for patients with heart disease.",
+    "resource_type": "Organization",
+    "id": 32
+  },
+  {
+    "statement": "The radiology department on the second floor is where the chest X-ray was performed for imaging evaluation.",
+    "resource_type": "Location",
+    "id": 33
+  },
+  {
+    "statement": "The radiology department on the third floor is currently handling all outpatient imaging appointments.",
+    "resource_type": "Location",
+    "id": 34
+  },
+  {
+    "statement": "The imaging department is located on the second floor, room 204, where all MRI scans are performed.",
+    "resource_type": "Location",
+    "id": 35
+  },
+  {
+    "statement": "The radiology department on the third floor is where the MRI scanner is located for diagnostic imaging.",
+    "resource_type": "Location",
+    "id": 36
+  },
+  {
+    "statement": "The radiology department is located on the second floor, providing imaging services for outpatient and inpatient care.",
+    "resource_type": "Location",
+    "id": 37
+  },
+  {
+    "statement": "The radiology suite on the second floor is equipped with MRI and CT scanners for advanced imaging diagnostics.",
+    "resource_type": "Location",
+    "id": 38
+  },
+  {
+    "statement": "The radiology department on the second floor is equipped with MRI and CT scanners for diagnostic imaging.",
+    "resource_type": "Location",
+    "id": 39
+  },
+  {
+    "statement": "The outpatient clinic on the third floor handles all routine follow-up appointments for diabetic patients.",
+    "resource_type": "Location",
+    "id": 40
+  },
+  {
+    "statement": "The radiology department on the second floor is equipped for MRI and CT scanning services.",
+    "resource_type": "Location",
+    "id": 41
+  },
+  {
+    "statement": "The inpatient ward on the third floor is designated for post-operative cardiac care patients.",
+    "resource_type": "Location",
+    "id": 42
+  },
+  {
+    "statement": "The radiology department's main MRI suite is located on the second floor near the nurses' station.",
+    "resource_type": "Location",
+    "id": 43
+  },
+  {
+    "statement": "A cardiac pacemaker was implanted to regulate the patient\u2019s irregular heartbeat after multiple episodes of bradycardia.",
+    "resource_type": "Device",
+    "id": 44
+  },
+  {
+    "statement": "A cardiac pacemaker was implanted to regulate the patient's irregular heart rhythm after diagnosis.",
+    "resource_type": "Device",
+    "id": 45
+  },
+  {
+    "statement": "A cardiac pacemaker was implanted in the patient to regulate irregular heart rhythms after a recent arrhythmia diagnosis.",
+    "resource_type": "Device",
+    "id": 46
+  },
+  {
+    "statement": "A hospital-issued insulin pump was assigned to the patient for continuous glucose monitoring and automated insulin delivery.",
+    "resource_type": "Device",
+    "id": 47
+  },
+  {
+    "statement": "A patient was fitted with a continuous glucose monitor to track blood sugar levels throughout the day.",
+    "resource_type": "Device",
+    "id": 48
+  },
+  {
+    "statement": "A hospital issued a portable pulse oximeter to monitor the patient\u2019s oxygen levels continuously during recovery.",
+    "resource_type": "Device",
+    "id": 49
+  },
+  {
+    "statement": "A wearable glucose monitor continuously tracks blood sugar levels for a diabetic patient managing insulin therapy.",
+    "resource_type": "Device",
+    "id": 50
+  },
+  {
+    "statement": "The hospital deployed a continuous glucose monitor to track a diabetic patient's blood sugar levels in real-time.",
+    "resource_type": "Device",
+    "id": 51
+  },
+  {
+    "statement": "The hospital assigned a portable pulse oximeter with serial number X12345 to monitor the patient's oxygen levels continuously.",
+    "resource_type": "Device",
+    "id": 52
+  },
+  {
+    "statement": "A hospital staff member assigned a new cardiac monitor to a patient for continuous heart rhythm tracking.",
+    "resource_type": "Device",
+    "id": 53
+  },
+  {
+    "statement": "The hospital assigned a wearable heart monitor to track the patient\u2019s cardiac rhythms during overnight observation.",
+    "resource_type": "Device",
+    "id": 54
+  },
+  {
+    "statement": "Oxygen saturation measured at 92% on room air during follow-up for chronic obstructive pulmonary disease.",
+    "resource_type": "Observation",
+    "id": 55
+  },
+  {
+    "statement": "Oxygen saturation measured at 92% on room air indicates possible respiratory distress in the patient.",
+    "resource_type": "Observation",
+    "id": 56
+  },
+  {
+    "statement": "Routine blood glucose test reveals a fasting level of 130 mg/dL, indicating possible prediabetes.",
+    "resource_type": "Observation",
+    "id": 57
+  },
+  {
+    "statement": "Oxygen saturation measured at 92% on room air during a post-operative recovery assessment.",
+    "resource_type": "Observation",
+    "id": 58
+  },
+  {
+    "statement": "A recent lab test revealed a fasting blood glucose level of 130 mg/dL, indicating possible prediabetes.",
+    "resource_type": "Observation",
+    "id": 59
+  },
+  {
+    "statement": "Pulse oximetry measurement indicates oxygen saturation at 92% in a patient experiencing shortness of breath.",
+    "resource_type": "Observation",
+    "id": 60
+  },
+  {
+    "statement": "A lab test revealed elevated blood glucose levels of 160 mg/dL indicating possible diabetes during the annual physical exam.",
+    "resource_type": "Observation",
+    "id": 61
+  },
+  {
+    "statement": "Lab results indicate a blood glucose level of 150 mg/dL after fasting for 8 hours.",
+    "resource_type": "Observation",
+    "id": 62
+  },
+  {
+    "statement": "Oxygen saturation measured at 92% on room air during assessment of a patient with shortness of breath.",
+    "resource_type": "Observation",
+    "id": 63
+  },
+  {
+    "statement": "Oxygen saturation measured at 92% on room air during post-operative monitoring indicates mild hypoxemia.",
+    "resource_type": "Observation",
+    "id": 64
+  },
+  {
+    "statement": "Oxygen saturation measured at 92% on room air during initial assessment of a patient with shortness of breath.",
+    "resource_type": "Observation",
+    "id": 65
+  },
+  {
+    "statement": "Laboratory results indicate elevated white blood cell count, suggesting a possible bacterial infection requiring further evaluation.",
+    "resource_type": "DiagnosticReport",
+    "id": 66
+  },
+  {
+    "statement": "Lab results reveal elevated white blood cell count and positive blood culture indicating a bacterial infection.",
+    "resource_type": "DiagnosticReport",
+    "id": 67
+  },
+  {
+    "statement": "Laboratory results confirm a positive influenza A infection in a 35-year-old patient presenting with fever and cough.",
+    "resource_type": "DiagnosticReport",
+    "id": 68
+  },
+  {
+    "statement": "Laboratory results confirm a positive COVID-19 PCR test for a symptomatic patient presenting with fever and cough.",
+    "resource_type": "DiagnosticReport",
+    "id": 69
+  },
+  {
+    "statement": "Laboratory results confirm a positive influenza A test for the patient presenting with flu-like symptoms.",
+    "resource_type": "DiagnosticReport",
+    "id": 70
+  },
+  {
+    "statement": "The lab report confirms a positive COVID-19 PCR test result for the patient after symptom onset.",
+    "resource_type": "DiagnosticReport",
+    "id": 71
+  },
+  {
+    "statement": "The lab results show a positive influenza A test confirming the patient's viral respiratory infection.",
+    "resource_type": "DiagnosticReport",
+    "id": 72
+  },
+  {
+    "statement": "Laboratory test results confirm a positive streptococcal infection in a patient presenting with sore throat symptoms.",
+    "resource_type": "DiagnosticReport",
+    "id": 73
+  },
+  {
+    "statement": "Lab results confirm a positive streptococcal infection in a throat swab collected during a patient visit.",
+    "resource_type": "DiagnosticReport",
+    "id": 74
+  },
+  {
+    "statement": "Laboratory results confirm elevated blood glucose levels consistent with a new diagnosis of type 2 diabetes.",
+    "resource_type": "DiagnosticReport",
+    "id": 75
+  },
+  {
+    "statement": "The lab results indicate a positive strep throat culture confirming bacterial infection in the patient.",
+    "resource_type": "DiagnosticReport",
+    "id": 76
+  },
+  {
+    "statement": "A 45-year-old woman diagnosed with type 2 diabetes presents for routine follow-up and blood sugar monitoring.",
+    "resource_type": "Condition",
+    "id": 77
+  },
+  {
+    "statement": "A 45-year-old patient was diagnosed with type 2 diabetes after presenting with increased thirst and frequent urination.",
+    "resource_type": "Condition",
+    "id": 78
+  },
+  {
+    "statement": "A 55-year-old female was diagnosed with type 2 diabetes mellitus during her annual health screening.",
+    "resource_type": "Condition",
+    "id": 79
+  },
+  {
+    "statement": "A 65-year-old woman was diagnosed with type 2 diabetes mellitus during her annual physical exam.",
+    "resource_type": "Condition",
+    "id": 80
+  },
+  {
+    "statement": "A 55-year-old female was diagnosed with type 2 diabetes mellitus during her annual health examination.",
+    "resource_type": "Condition",
+    "id": 81
+  },
+  {
+    "statement": "A 65-year-old patient was diagnosed with type 2 diabetes mellitus during a recent outpatient visit.",
+    "resource_type": "Condition",
+    "id": 82
+  },
+  {
+    "statement": "A 45-year-old female diagnosed with type 2 diabetes mellitus during her annual physical examination.",
+    "resource_type": "Condition",
+    "id": 83
+  },
+  {
+    "statement": "A 45-year-old female diagnosed with type 2 diabetes mellitus during her annual physical examination.",
+    "resource_type": "Condition",
+    "id": 84
+  },
+  {
+    "statement": "A 45-year-old patient was diagnosed with type 2 diabetes after experiencing increased thirst and frequent urination.",
+    "resource_type": "Condition",
+    "id": 85
+  },
+  {
+    "statement": "A 45-year-old female was diagnosed with type 2 diabetes after presenting with increased thirst and frequent urination.",
+    "resource_type": "Condition",
+    "id": 86
+  },
+  {
+    "statement": "A 45-year-old woman was diagnosed with type 2 diabetes after presenting with increased thirst and frequent urination.",
+    "resource_type": "Condition",
+    "id": 87
+  },
+  {
+    "statement": "The surgeon performed a laparoscopic appendectomy to treat the patient\u2019s acute abdominal pain.",
+    "resource_type": "Procedure",
+    "id": 88
+  },
+  {
+    "statement": "A 45-year-old patient underwent laparoscopic appendectomy to treat acute appendicitis without complications.",
+    "resource_type": "Procedure",
+    "id": 89
+  },
+  {
+    "statement": "The surgeon performed a laparoscopic appendectomy on a 34-year-old female presenting with acute abdominal pain.",
+    "resource_type": "Procedure",
+    "id": 90
+  },
+  {
+    "statement": "A patient underwent laparoscopic appendectomy to treat acute appendicitis in the surgical suite yesterday.",
+    "resource_type": "Procedure",
+    "id": 91
+  },
+  {
+    "statement": "A 45-year-old woman underwent laparoscopic gallbladder removal due to symptomatic cholelithiasis last Tuesday.",
+    "resource_type": "Procedure",
+    "id": 92
+  },
+  {
+    "statement": "The patient underwent a laparoscopic appendectomy to treat acute appendicitis without complications.",
+    "resource_type": "Procedure",
+    "id": 93
+  },
+  {
+    "statement": "A 45-year-old patient underwent laparoscopic appendectomy to treat acute appendicitis without complications.",
+    "resource_type": "Procedure",
+    "id": 94
+  },
+  {
+    "statement": "A knee arthroscopy was performed to repair a torn meniscus after the patient reported persistent joint pain.",
+    "resource_type": "Procedure",
+    "id": 95
+  },
+  {
+    "statement": "The surgeon performed a laparoscopic appendectomy on a 35-year-old patient presenting with acute abdominal pain.",
+    "resource_type": "Procedure",
+    "id": 96
+  },
+  {
+    "statement": "A 45-year-old woman underwent laparoscopic cholecystectomy to remove her inflamed gallbladder.",
+    "resource_type": "Procedure",
+    "id": 97
+  },
+  {
+    "statement": "A 45-year-old patient underwent laparoscopic appendectomy to treat acute appendicitis without complications.",
+    "resource_type": "Procedure",
+    "id": 98
+  },
+  {
+    "statement": "The doctor ordered a 7-day course of amoxicillin 500mg three times daily for a patient with a bacterial sinus infection.",
+    "resource_type": "MedicationRequest",
+    "id": 99
+  },
+  {
+    "statement": "A doctor prescribed amoxicillin 500mg three times daily for a 7-day course to treat a patient's bacterial infection.",
+    "resource_type": "MedicationRequest",
+    "id": 100
+  },
+  {
+    "statement": "The doctor ordered a 7-day course of amoxicillin 500mg three times daily for the patient's sinus infection.",
+    "resource_type": "MedicationRequest",
+    "id": 101
+  },
+  {
+    "statement": "The doctor ordered a 7-day course of amoxicillin 500mg three times daily for a diagnosed bacterial sinus infection.",
+    "resource_type": "MedicationRequest",
+    "id": 102
+  },
+  {
+    "statement": "The doctor ordered amoxicillin 500mg three times daily for seven days to treat a bacterial sinus infection.",
+    "resource_type": "MedicationRequest",
+    "id": 103
+  },
+  {
+    "statement": "The doctor ordered a 7-day course of amoxicillin 500mg three times daily for a patient with a sinus infection.",
+    "resource_type": "MedicationRequest",
+    "id": 104
+  },
+  {
+    "statement": "The doctor ordered a 7-day course of amoxicillin 500mg three times daily for a patient with a bacterial sinus infection.",
+    "resource_type": "MedicationRequest",
+    "id": 105
+  },
+  {
+    "statement": "The doctor ordered a 7-day course of amoxicillin for a patient diagnosed with bacterial sinusitis.",
+    "resource_type": "MedicationRequest",
+    "id": 106
+  },
+  {
+    "statement": "The doctor ordered a 7-day course of amoxicillin 500mg three times daily for a sinus infection.",
+    "resource_type": "MedicationRequest",
+    "id": 107
+  },
+  {
+    "statement": "The doctor ordered a 7-day course of amoxicillin 500mg three times daily for the patient\u2019s bacterial sinus infection.",
+    "resource_type": "MedicationRequest",
+    "id": 108
+  },
+  {
+    "statement": "A doctor orders a 7-day course of amoxicillin 500mg three times daily for a patient diagnosed with bacterial sinusitis.",
+    "resource_type": "MedicationRequest",
+    "id": 109
+  },
+  {
+    "statement": "A nurse administered a 500mg dose of intravenous acetaminophen to the patient for fever reduction.",
+    "resource_type": "MedicationAdministration",
+    "id": 110
+  },
+  {
+    "statement": "The nurse administered a 500mg dose of amoxicillin orally to the patient for bacterial infection treatment.",
+    "resource_type": "MedicationAdministration",
+    "id": 111
+  },
+  {
+    "statement": "A nurse administered a 500mg dose of amoxicillin orally to the patient for bacterial pneumonia treatment.",
+    "resource_type": "MedicationAdministration",
+    "id": 112
+  },
+  {
+    "statement": "Nurse administered 500mg acetaminophen orally to the patient for fever reduction after surgery.",
+    "resource_type": "MedicationAdministration",
+    "id": 113
+  },
+  {
+    "statement": "A nurse administered a 500mg dose of amoxicillin orally to a patient for a confirmed bacterial infection.",
+    "resource_type": "MedicationAdministration",
+    "id": 114
+  },
+  {
+    "statement": "A nurse administered a 500mg dose of amoxicillin orally to a patient for a bacterial infection.",
+    "resource_type": "MedicationAdministration",
+    "id": 115
+  },
+  {
+    "statement": "The nurse administered a 500mg dose of intravenous acetaminophen to the patient for postoperative pain relief.",
+    "resource_type": "MedicationAdministration",
+    "id": 116
+  },
+  {
+    "statement": "A nurse administered a 500mg dose of amoxicillin orally to a patient for bacterial infection treatment.",
+    "resource_type": "MedicationAdministration",
+    "id": 117
+  },
+  {
+    "statement": "A nurse administered a 500mg dose of amoxicillin orally to the patient for a bacterial infection.",
+    "resource_type": "MedicationAdministration",
+    "id": 118
+  },
+  {
+    "statement": "Nurse administered 500mg of intravenous acetaminophen to the patient for post-operative pain relief.",
+    "resource_type": "MedicationAdministration",
+    "id": 119
+  },
+  {
+    "statement": "A nurse administered a 500mg dose of intravenous ceftriaxone to the patient for suspected bacterial pneumonia.",
+    "resource_type": "MedicationAdministration",
+    "id": 120
+  },
+  {
+    "statement": "A pharmacist dispensed a 30-day supply of amoxicillin to a patient following a confirmed bacterial infection diagnosis.",
+    "resource_type": "MedicationDispense",
+    "id": 121
+  },
+  {
+    "statement": "A pharmacist dispensed a 30-day supply of metformin to a patient managing newly diagnosed type 2 diabetes.",
+    "resource_type": "MedicationDispense",
+    "id": 122
+  },
+  {
+    "statement": "The pharmacy dispensed a 30-day supply of metformin 500mg tablets to the patient following diabetes diagnosis.",
+    "resource_type": "MedicationDispense",
+    "id": 123
+  },
+  {
+    "statement": "A pharmacist dispensed a 30-day supply of metformin to the patient following their diabetes diagnosis.",
+    "resource_type": "MedicationDispense",
+    "id": 124
+  },
+  {
+    "statement": "The pharmacy dispensed a 30-day supply of metformin 500mg tablets to the patient for diabetes management.",
+    "resource_type": "MedicationDispense",
+    "id": 125
+  },
+  {
+    "statement": "The nurse provided a 7-day supply of amoxicillin to the patient following their confirmed bacterial infection diagnosis.",
+    "resource_type": "MedicationDispense",
+    "id": 126
+  },
+  {
+    "statement": "The pharmacy dispensed a 30-day supply of metformin 500mg tablets to the patient for diabetes management.",
+    "resource_type": "MedicationDispense",
+    "id": 127
+  },
+  {
+    "statement": "The pharmacy provided a 30-day supply of metformin 500mg tablets to the patient following diabetes diagnosis.",
+    "resource_type": "MedicationDispense",
+    "id": 128
+  },
+  {
+    "statement": "The pharmacy provided a 30-day supply of metformin to the patient following a new diabetes diagnosis.",
+    "resource_type": "MedicationDispense",
+    "id": 129
+  },
+  {
+    "statement": "A pharmacist dispensed a 30-day supply of metformin to a patient managing type 2 diabetes.",
+    "resource_type": "MedicationDispense",
+    "id": 130
+  },
+  {
+    "statement": "The pharmacy dispensed a 30-day supply of metformin 500mg tablets to the patient for type 2 diabetes management.",
+    "resource_type": "MedicationDispense",
+    "id": 131
+  },
+  {
+    "statement": "The patient reports taking 500mg acetaminophen every six hours for post-surgical pain relief at home.",
+    "resource_type": "MedicationStatement",
+    "id": 132
+  },
+  {
+    "statement": "The patient reports taking 500mg acetaminophen every six hours for postoperative pain relief at home.",
+    "resource_type": "MedicationStatement",
+    "id": 133
+  },
+  {
+    "statement": "The patient reports taking metformin 500mg twice daily as prescribed for type 2 diabetes management.",
+    "resource_type": "MedicationStatement",
+    "id": 134
+  },
+  {
+    "statement": "The patient reports taking 500 mg acetaminophen every six hours for postoperative pain relief as instructed.",
+    "resource_type": "MedicationStatement",
+    "id": 135
+  },
+  {
+    "statement": "The patient reported taking prescribed metformin 500 mg twice daily for type 2 diabetes management at home.",
+    "resource_type": "MedicationStatement",
+    "id": 136
+  },
+  {
+    "statement": "The patient reports taking 500mg acetaminophen every six hours for recent migraine relief as instructed.",
+    "resource_type": "MedicationStatement",
+    "id": 137
+  },
+  {
+    "statement": "The patient reports taking 500mg amoxicillin three times daily for a sinus infection as prescribed last week.",
+    "resource_type": "MedicationStatement",
+    "id": 138
+  },
+  {
+    "statement": "The patient reports taking 500mg amoxicillin three times daily for a confirmed sinus infection over the past week.",
+    "resource_type": "MedicationStatement",
+    "id": 139
+  },
+  {
+    "statement": "The patient reports taking 500mg amoxicillin three times daily for a suspected ear infection as prescribed by their primary care provider.",
+    "resource_type": "MedicationStatement",
+    "id": 140
+  },
+  {
+    "statement": "The patient reports taking 500mg amoxicillin three times daily for a sinus infection as prescribed last week.",
+    "resource_type": "MedicationStatement",
+    "id": 141
+  },
+  {
+    "statement": "The patient reports taking 500mg amoxicillin three times daily for a diagnosed sinus infection over the past week.",
+    "resource_type": "MedicationStatement",
+    "id": 142
+  },
+  {
+    "statement": "A child received the second dose of the MMR vaccine during their scheduled well-child visit.",
+    "resource_type": "Immunization",
+    "id": 143
+  },
+  {
+    "statement": "A child received the second dose of the measles-mumps-rubella vaccine during their well-child visit.",
+    "resource_type": "Immunization",
+    "id": 144
+  },
+  {
+    "statement": "A nurse administered the second dose of the COVID-19 vaccine to a 45-year-old patient during their clinic visit.",
+    "resource_type": "Immunization",
+    "id": 145
+  },
+  {
+    "statement": "A child received the MMR vaccine during their annual well-child visit to prevent measles, mumps, and rubella infections.",
+    "resource_type": "Immunization",
+    "id": 146
+  },
+  {
+    "statement": "A 12-year-old received the second dose of the HPV vaccine during their annual wellness visit.",
+    "resource_type": "Immunization",
+    "id": 147
+  },
+  {
+    "statement": "A child received the second dose of the MMR vaccine during their six-month well-child visit.",
+    "resource_type": "Immunization",
+    "id": 148
+  },
+  {
+    "statement": "A 12-year-old received their annual influenza vaccine during the school health clinic visit.",
+    "resource_type": "Immunization",
+    "id": 149
+  },
+  {
+    "statement": "A child received the second dose of the measles-mumps-rubella vaccine during their scheduled well-child visit.",
+    "resource_type": "Immunization",
+    "id": 150
+  },
+  {
+    "statement": "A child received the first dose of the MMR vaccine during their six-month well-child visit.",
+    "resource_type": "Immunization",
+    "id": 151
+  },
+  {
+    "statement": "A nurse documented that a 12-year-old received the second dose of the HPV vaccine during the school health visit.",
+    "resource_type": "Immunization",
+    "id": 152
+  },
+  {
+    "statement": "A child received the second dose of the measles-mumps-rubella vaccine during their scheduled well-child visit.",
+    "resource_type": "Immunization",
+    "id": 153
+  },
+  {
+    "statement": "Patient reports a severe allergic reaction to peanuts causing hives and difficulty breathing.",
+    "resource_type": "AllergyIntolerance",
+    "id": 154
+  },
+  {
+    "statement": "Patient reports a severe rash after eating peanuts, indicating a possible nut allergy requiring avoidance and emergency action plan.",
+    "resource_type": "AllergyIntolerance",
+    "id": 155
+  },
+  {
+    "statement": "A patient reported hives and difficulty breathing after eating shellfish during a recent clinic visit.",
+    "resource_type": "AllergyIntolerance",
+    "id": 156
+  },
+  {
+    "statement": "Patient reports a rash and swelling after eating peanuts, indicating a suspected food allergy.",
+    "resource_type": "AllergyIntolerance",
+    "id": 157
+  },
+  {
+    "statement": "Patient reports severe rash and swelling after eating peanuts, indicating a documented food allergy.",
+    "resource_type": "AllergyIntolerance",
+    "id": 158
+  },
+  {
+    "statement": "Patient reports a severe rash and swelling after exposure to penicillin during previous antibiotic treatment.",
+    "resource_type": "AllergyIntolerance",
+    "id": 159
+  },
+  {
+    "statement": "A patient reports a rash and swelling after eating peanuts, indicating a possible food allergy.",
+    "resource_type": "AllergyIntolerance",
+    "id": 160
+  },
+  {
+    "statement": "A patient reports a rash and difficulty breathing after eating peanuts during a recent meal.",
+    "resource_type": "AllergyIntolerance",
+    "id": 161
+  },
+  {
+    "statement": "Patient reports hives and difficulty breathing after eating shellfish during last weekend\u2019s family dinner.",
+    "resource_type": "AllergyIntolerance",
+    "id": 162
+  },
+  {
+    "statement": "Patient reports severe hives and swelling after consuming peanuts during a recent meal.",
+    "resource_type": "AllergyIntolerance",
+    "id": 163
+  },
+  {
+    "statement": "Patient reports a severe rash and swelling after eating shellfish during last month\u2019s clinic visit.",
+    "resource_type": "AllergyIntolerance",
+    "id": 164
+  },
+  {
+    "statement": "A 45-year-old woman visited the clinic for a follow-up appointment after her knee replacement surgery.",
+    "resource_type": "Encounter",
+    "id": 165
+  },
+  {
+    "statement": "A 45-year-old woman attended an outpatient visit for follow-up after her knee replacement surgery.",
+    "resource_type": "Encounter",
+    "id": 166
+  },
+  {
+    "statement": "A 45-year-old woman visited the clinic for a follow-up appointment after her knee surgery last month.",
+    "resource_type": "Encounter",
+    "id": 167
+  },
+  {
+    "statement": "A 45-year-old woman visited the clinic for a follow-up appointment after her knee surgery.",
+    "resource_type": "Encounter",
+    "id": 168
+  },
+  {
+    "statement": "A 45-year-old woman visited the clinic for a follow-up appointment after her recent knee surgery.",
+    "resource_type": "Encounter",
+    "id": 169
+  },
+  {
+    "statement": "A 45-year-old patient visited the clinic for a follow-up appointment after knee surgery last month.",
+    "resource_type": "Encounter",
+    "id": 170
+  },
+  {
+    "statement": "A 45-year-old woman visited the clinic for a follow-up after her knee replacement surgery.",
+    "resource_type": "Encounter",
+    "id": 171
+  },
+  {
+    "statement": "A 45-year-old woman visited the clinic for a follow-up appointment after her recent knee surgery.",
+    "resource_type": "Encounter",
+    "id": 172
+  },
+  {
+    "statement": "A 45-year-old woman visited the clinic for follow-up after knee replacement surgery last week.",
+    "resource_type": "Encounter",
+    "id": 173
+  },
+  {
+    "statement": "A 45-year-old woman visited the clinic for follow-up after her recent knee surgery.",
+    "resource_type": "Encounter",
+    "id": 174
+  },
+  {
+    "statement": "A 45-year-old woman visited the clinic for a follow-up appointment after her knee surgery.",
+    "resource_type": "Encounter",
+    "id": 175
+  },
+  {
+    "statement": "A follow-up visit is scheduled for a diabetic patient to review blood sugar levels and adjust insulin dosage.",
+    "resource_type": "Appointment",
+    "id": 176
+  },
+  {
+    "statement": "A follow-up visit with the cardiologist is scheduled next Tuesday to review medication effectiveness.",
+    "resource_type": "Appointment",
+    "id": 177
+  },
+  {
+    "statement": "A follow-up visit is scheduled for a diabetic patient to review blood sugar levels and adjust medication.",
+    "resource_type": "Appointment",
+    "id": 178
+  },
+  {
+    "statement": "A patient scheduled a follow-up visit with their cardiologist to review recent test results and adjust medications.",
+    "resource_type": "Appointment",
+    "id": 179
+  },
+  {
+    "statement": "A follow-up visit is scheduled for Mrs. Lee to review her diabetes management results next Tuesday morning.",
+    "resource_type": "Appointment",
+    "id": 180
+  },
+  {
+    "statement": "A follow-up visit is scheduled for a diabetic patient to review blood sugar levels and adjust insulin dosage.",
+    "resource_type": "Appointment",
+    "id": 181
+  },
+  {
+    "statement": "A follow-up visit is scheduled for a diabetic patient to review blood sugar levels and adjust insulin dosage.",
+    "resource_type": "Appointment",
+    "id": 182
+  },
+  {
+    "statement": "A follow-up visit is scheduled for a diabetic patient to review recent lab results and adjust insulin dosage.",
+    "resource_type": "Appointment",
+    "id": 183
+  },
+  {
+    "statement": "A follow-up visit is scheduled for a diabetic patient to review blood sugar levels and adjust insulin dosage.",
+    "resource_type": "Appointment",
+    "id": 184
+  },
+  {
+    "statement": "A follow-up visit is scheduled for a diabetic patient to review blood sugar levels and adjust insulin dosage.",
+    "resource_type": "Appointment",
+    "id": 185
+  },
+  {
+    "statement": "A follow-up visit was scheduled for a diabetic patient to review blood sugar control and adjust treatment.",
+    "resource_type": "Appointment",
+    "id": 186
+  },
+  {
+    "statement": "The patient confirmed attendance for the follow-up appointment scheduled next Tuesday at 10 AM.",
+    "resource_type": "AppointmentResponse",
+    "id": 187
+  },
+  {
+    "statement": "The patient confirmed attendance for their follow-up visit scheduled next Tuesday at 10 AM.",
+    "resource_type": "AppointmentResponse",
+    "id": 188
+  },
+  {
+    "statement": "The patient confirmed availability for a follow-up appointment scheduled next Tuesday at 10 AM.",
+    "resource_type": "AppointmentResponse",
+    "id": 189
+  },
+  {
+    "statement": "The patient confirmed the follow-up appointment scheduled for next Tuesday at 3 PM with the cardiology clinic.",
+    "resource_type": "AppointmentResponse",
+    "id": 190
+  },
+  {
+    "statement": "The patient confirmed attendance for the scheduled follow-up visit with the cardiologist next Tuesday.",
+    "resource_type": "AppointmentResponse",
+    "id": 191
+  },
+  {
+    "statement": "The patient confirmed availability and accepted the scheduled follow-up appointment for diabetes management next Tuesday.",
+    "resource_type": "AppointmentResponse",
+    "id": 192
+  },
+  {
+    "statement": "The patient confirmed attendance and requested a reschedule for the follow-up appointment next week.",
+    "resource_type": "AppointmentResponse",
+    "id": 193
+  },
+  {
+    "statement": "The patient confirmed attendance for the follow-up appointment scheduled next Tuesday at 3 PM with the cardiology clinic.",
+    "resource_type": "AppointmentResponse",
+    "id": 194
+  },
+  {
+    "statement": "The patient confirmed availability for a follow-up visit scheduled next Tuesday at 10 AM with the cardiology clinic.",
+    "resource_type": "AppointmentResponse",
+    "id": 195
+  },
+  {
+    "statement": "The patient confirmed attendance for the follow-up appointment scheduled next Tuesday at 2 PM.",
+    "resource_type": "AppointmentResponse",
+    "id": 196
+  },
+  {
+    "statement": "The patient confirmed attendance for their follow-up consultation scheduled next Tuesday at 10 AM.",
+    "resource_type": "AppointmentResponse",
+    "id": 197
+  },
+  {
+    "statement": "A care plan outlines diabetes management goals, including diet, exercise, medication, and regular blood sugar monitoring.",
+    "resource_type": "CarePlan",
+    "id": 198
+  },
+  {
+    "statement": "A care plan outlines coordinated diabetes management including diet, exercise, medication, and regular blood sugar monitoring.",
+    "resource_type": "CarePlan",
+    "id": 199
+  },
+  {
+    "statement": "A care plan outlines diabetes management steps including diet, exercise, medication, and regular blood sugar monitoring.",
+    "resource_type": "CarePlan",
+    "id": 200
+  },
+  {
+    "statement": "The care team developed a treatment plan for a diabetic patient to manage blood sugar and prevent complications.",
+    "resource_type": "CarePlan",
+    "id": 201
+  },
+  {
+    "statement": "A care plan outlines diabetes management steps, including blood sugar monitoring, diet changes, and regular exercise recommendations.",
+    "resource_type": "CarePlan",
+    "id": 202
+  },
+  {
+    "statement": "A care plan outlines John\u2019s wound care, pain management, and physical therapy goals following his hip replacement surgery.",
+    "resource_type": "CarePlan",
+    "id": 203
+  },
+  {
+    "statement": "The care team developed a plan to manage diabetes with diet, exercise, and regular blood sugar monitoring.",
+    "resource_type": "CarePlan",
+    "id": 204
+  },
+  {
+    "statement": "A care plan outlines coordinated diabetes management goals, medication schedules, and lifestyle recommendations for a newly diagnosed patient.",
+    "resource_type": "CarePlan",
+    "id": 205
+  },
+  {
+    "statement": "A care plan outlines diabetes management steps including diet, exercise, medication, and regular blood sugar monitoring for a patient.",
+    "resource_type": "CarePlan",
+    "id": 206
+  },
+  {
+    "statement": "A care team develops a personalized plan to manage diabetes and prevent complications for a newly diagnosed patient.",
+    "resource_type": "CarePlan",
+    "id": 207
+  },
+  {
+    "statement": "A care plan outlines diabetes self-management goals, dietary recommendations, and scheduled follow-up appointments for a 55-year-old patient.",
+    "resource_type": "CarePlan",
+    "id": 208
+  },
+  {
+    "statement": "A multidisciplinary team coordinates care for a diabetic patient managing insulin therapy and dietary changes.",
+    "resource_type": "CareTeam",
+    "id": 209
+  },
+  {
+    "statement": "A multidisciplinary team coordinates care for a diabetic patient managing insulin therapy and lifestyle modifications.",
+    "resource_type": "CareTeam",
+    "id": 210
+  },
+  {
+    "statement": "A multidisciplinary team coordinates care for a stroke patient during rehabilitation and follow-up appointments.",
+    "resource_type": "CareTeam",
+    "id": 211
+  },
+  {
+    "statement": "A multidisciplinary team coordinates care for a stroke patient undergoing rehabilitation after hospital discharge.",
+    "resource_type": "CareTeam",
+    "id": 212
+  },
+  {
+    "statement": "A multidisciplinary team coordinates care for a diabetic patient managing insulin therapy and dietary counseling.",
+    "resource_type": "CareTeam",
+    "id": 213
+  },
+  {
+    "statement": "A multidisciplinary team is coordinating care for a diabetic patient managing insulin therapy and wound healing.",
+    "resource_type": "CareTeam",
+    "id": 214
+  },
+  {
+    "statement": "A multidisciplinary care team coordinates treatment for a stroke patient during inpatient rehabilitation.",
+    "resource_type": "CareTeam",
+    "id": 215
+  },
+  {
+    "statement": "A coordinated care group manages diabetes treatment, including a primary doctor, endocrinologist, dietitian, and diabetes educator.",
+    "resource_type": "CareTeam",
+    "id": 216
+  },
+  {
+    "statement": "A multidisciplinary team coordinates care for a stroke patient undergoing rehabilitation and medication management.",
+    "resource_type": "CareTeam",
+    "id": 217
+  },
+  {
+    "statement": "A multidisciplinary team coordinates care for a diabetic patient managing insulin therapy and regular foot exams.",
+    "resource_type": "CareTeam",
+    "id": 218
+  },
+  {
+    "statement": "A multidisciplinary team coordinates care for a diabetic patient managing insulin therapy and dietary counseling.",
+    "resource_type": "CareTeam",
+    "id": 219
+  },
+  {
+    "statement": "The care team aims to reduce the patient's HbA1c level to below 7% within the next three months.",
+    "resource_type": "Goal",
+    "id": 220
+  },
+  {
+    "statement": "The care team aims to reduce the patient\u2019s HbA1c to below 7% within the next six months.",
+    "resource_type": "Goal",
+    "id": 221
+  },
+  {
+    "statement": "The patient aims to reduce HbA1c levels to below 7% within six months through diet and medication adherence.",
+    "resource_type": "Goal",
+    "id": 222
+  },
+  {
+    "statement": "The care team aims to reduce the patient\u2019s HbA1c to below 7% within six months through lifestyle changes and medication.",
+    "resource_type": "Goal",
+    "id": 223
+  },
+  {
+    "statement": "The care team aims to reduce the patient's HbA1c level to below 7% within six months through lifestyle changes and medication.",
+    "resource_type": "Goal",
+    "id": 224
+  },
+  {
+    "statement": "The care team aims to reduce the patient's HbA1c level below 7% within the next six months.",
+    "resource_type": "Goal",
+    "id": 225
+  },
+  {
+    "statement": "The care team aims to reduce the patient's HbA1c level to below 7% within the next three months.",
+    "resource_type": "Goal",
+    "id": 226
+  },
+  {
+    "statement": "The care team aims to reduce the patient's HbA1c level to below 7% within the next three months.",
+    "resource_type": "Goal",
+    "id": 227
+  },
+  {
+    "statement": "The care team aims to reduce the patient\u2019s HbA1c levels to below 7% within the next six months.",
+    "resource_type": "Goal",
+    "id": 228
+  },
+  {
+    "statement": "The patient's target is to reduce HbA1c to below 7% within six months through lifestyle changes and medication adherence.",
+    "resource_type": "Goal",
+    "id": 229
+  },
+  {
+    "statement": "The care team aims to reduce the patient\u2019s HbA1c level below 7% within the next six months.",
+    "resource_type": "Goal",
+    "id": 230
+  },
+  {
+    "statement": "The physician ordered a chest X-ray to evaluate persistent cough and rule out pneumonia.",
+    "resource_type": "ServiceRequest",
+    "id": 231
+  },
+  {
+    "statement": "A primary care doctor orders a chest X-ray to evaluate persistent cough and shortness of breath in a 55-year-old patient.",
+    "resource_type": "ServiceRequest",
+    "id": 232
+  },
+  {
+    "statement": "A physician ordered a chest X-ray to evaluate persistent cough and rule out pneumonia.",
+    "resource_type": "ServiceRequest",
+    "id": 233
+  },
+  {
+    "statement": "The physician ordered a chest X-ray to evaluate suspected pneumonia in a 65-year-old patient with persistent cough.",
+    "resource_type": "ServiceRequest",
+    "id": 234
+  },
+  {
+    "statement": "A physician ordered a chest X-ray to evaluate persistent cough and rule out pneumonia.",
+    "resource_type": "ServiceRequest",
+    "id": 235
+  },
+  {
+    "statement": "A physician orders a chest X-ray to evaluate persistent cough and rule out pneumonia.",
+    "resource_type": "ServiceRequest",
+    "id": 236
+  },
+  {
+    "statement": "A physician ordered a chest X-ray to evaluate persistent cough and rule out pneumonia in a 45-year-old patient.",
+    "resource_type": "ServiceRequest",
+    "id": 237
+  },
+  {
+    "statement": "The doctor requested a chest X-ray to evaluate persistent cough and rule out pneumonia.",
+    "resource_type": "ServiceRequest",
+    "id": 238
+  },
+  {
+    "statement": "A physician orders a chest X-ray to evaluate persistent cough and rule out pneumonia.",
+    "resource_type": "ServiceRequest",
+    "id": 239
+  },
+  {
+    "statement": "A primary care provider ordered a chest X-ray to evaluate persistent cough and shortness of breath.",
+    "resource_type": "ServiceRequest",
+    "id": 240
+  },
+  {
+    "statement": "The doctor ordered a chest X-ray to evaluate persistent cough and rule out pneumonia.",
+    "resource_type": "ServiceRequest",
+    "id": 241
+  },
+  {
+    "statement": "A nurse is assigned to collect a blood sample from a patient before their scheduled surgery tomorrow morning.",
+    "resource_type": "Task",
+    "id": 242
+  },
+  {
+    "statement": "A nurse is assigned to collect a blood sample from a patient before the scheduled MRI scan.",
+    "resource_type": "Task",
+    "id": 243
+  },
+  {
+    "statement": "Nurse is assigned to collect a blood sample from patient Mrs. Lee before her scheduled surgery tomorrow.",
+    "resource_type": "Task",
+    "id": 244
+  },
+  {
+    "statement": "The nurse scheduled a follow-up blood test to monitor the patient\u2019s cholesterol levels next week.",
+    "resource_type": "Task",
+    "id": 245
+  },
+  {
+    "statement": "A nurse is assigned to collect a fasting blood glucose sample from a diabetic patient tomorrow morning.",
+    "resource_type": "Task",
+    "id": 246
+  },
+  {
+    "statement": "A nurse is assigned to collect a blood sample from a diabetic patient for glucose level testing tomorrow morning.",
+    "resource_type": "Task",
+    "id": 247
+  },
+  {
+    "statement": "A nurse was assigned to collect a blood sample from a diabetic patient before the morning insulin dose.",
+    "resource_type": "Task",
+    "id": 248
+  },
+  {
+    "statement": "A nurse was assigned to collect a blood sample from a patient for laboratory testing tomorrow morning.",
+    "resource_type": "Task",
+    "id": 249
+  },
+  {
+    "statement": "A nurse is assigned to collect a blood sample from a patient before their scheduled surgery tomorrow.",
+    "resource_type": "Task",
+    "id": 250
+  },
+  {
+    "statement": "A nurse was assigned to collect a blood sample from a patient for lab testing before their surgery.",
+    "resource_type": "Task",
+    "id": 251
+  },
+  {
+    "statement": "A nurse is assigned to collect a blood sample from a patient before the scheduled surgery tomorrow morning.",
+    "resource_type": "Task",
+    "id": 252
+  },
+  {
+    "statement": "The scanned discharge summary from the recent hospitalization was added to the patient\u2019s electronic health record for future reference.",
+    "resource_type": "DocumentReference",
+    "id": 253
+  },
+  {
+    "statement": "A scanned discharge summary from the recent hospital stay is uploaded to the patient\u2019s electronic health record for provider review.",
+    "resource_type": "DocumentReference",
+    "id": 254
+  },
+  {
+    "statement": "The clinic uploaded the latest chest X-ray report to the patient\u2019s electronic health record for cardiology review.",
+    "resource_type": "DocumentReference",
+    "id": 255
+  },
+  {
+    "statement": "A scanned copy of the patient's recent MRI report was uploaded to the electronic health record for physician review.",
+    "resource_type": "DocumentReference",
+    "id": 256
+  },
+  {
+    "statement": "A scanned copy of the patient's recent MRI report was uploaded to the electronic health record for review.",
+    "resource_type": "DocumentReference",
+    "id": 257
+  },
+  {
+    "statement": "A scanned discharge summary from the hospital stay was uploaded to the patient's electronic health record for future reference.",
+    "resource_type": "DocumentReference",
+    "id": 258
+  },
+  {
+    "statement": "A scanned discharge summary from the recent hospital stay is uploaded to the patient's electronic health record for review.",
+    "resource_type": "DocumentReference",
+    "id": 259
+  },
+  {
+    "statement": "A scanned copy of the patient\u2019s discharge summary from their recent hospital stay is stored in the medical record.",
+    "resource_type": "DocumentReference",
+    "id": 260
+  },
+  {
+    "statement": "A scanned discharge summary from the hospital stay was uploaded to the patient's electronic health record for future reference.",
+    "resource_type": "DocumentReference",
+    "id": 261
+  },
+  {
+    "statement": "The scanned discharge summary from the recent hospitalization was added to the patient\u2019s electronic health record for future reference.",
+    "resource_type": "DocumentReference",
+    "id": 262
+  },
+  {
+    "statement": "A scanned discharge summary from the hospital visit was uploaded to the patient's electronic health record for future reference.",
+    "resource_type": "DocumentReference",
+    "id": 263
+  },
+  {
+    "statement": "A scanned chest X-ray image was uploaded to the patient's record to evaluate suspected pneumonia.",
+    "resource_type": "Binary",
+    "id": 264
+  },
+  {
+    "statement": "A CT scan image was uploaded to the system for review by the radiology team during stroke assessment.",
+    "resource_type": "Binary",
+    "id": 265
+  },
+  {
+    "statement": "A chest X-ray image was uploaded to the system to evaluate possible pneumonia in a hospitalized patient.",
+    "resource_type": "Binary",
+    "id": 266
+  },
+  {
+    "statement": "A chest X-ray image was uploaded to the electronic record to evaluate suspected pneumonia in a hospitalized patient.",
+    "resource_type": "Binary",
+    "id": 267
+  },
+  {
+    "statement": "A radiology department uploaded a chest X-ray image to the patient's electronic health record for review.",
+    "resource_type": "Binary",
+    "id": 268
+  },
+  {
+    "statement": "A CT scan image of the patient\u2019s head was uploaded for review following a suspected stroke.",
+    "resource_type": "Binary",
+    "id": 269
+  },
+  {
+    "statement": "A CT scan image file was uploaded to the patient\u2019s record for further evaluation of suspected brain injury.",
+    "resource_type": "Binary",
+    "id": 270
+  },
+  {
+    "statement": "An ultrasound image was uploaded to the patient's record to evaluate suspected deep vein thrombosis in the lower leg.",
+    "resource_type": "Binary",
+    "id": 271
+  },
+  {
+    "statement": "A CT scan image of the head was uploaded to the patient's record following a suspected stroke.",
+    "resource_type": "Binary",
+    "id": 272
+  },
+  {
+    "statement": "A CT scan image of the patient's head was uploaded to the medical record for stroke assessment.",
+    "resource_type": "Binary",
+    "id": 273
+  },
+  {
+    "statement": "A CT scan image of a patient\u2019s head was uploaded to the electronic health record for stroke evaluation.",
+    "resource_type": "Binary",
+    "id": 274
+  },
+  {
+    "statement": "A chest X-ray image was captured to evaluate suspected pneumonia in a 65-year-old patient.",
+    "resource_type": "Media",
+    "id": 275
+  },
+  {
+    "statement": "A diagnostic ultrasound image was captured to evaluate the patient\u2019s abdominal pain during the emergency visit.",
+    "resource_type": "Media",
+    "id": 276
+  },
+  {
+    "statement": "An ultrasound image of a pregnant patient\u2019s abdomen was captured to evaluate fetal development at 28 weeks gestation.",
+    "resource_type": "Media",
+    "id": 277
+  },
+  {
+    "statement": "An ultrasound image captured during prenatal care shows the fetus's position and heartbeat at 32 weeks gestation.",
+    "resource_type": "Media",
+    "id": 278
+  },
+  {
+    "statement": "A chest X-ray image was captured to evaluate suspected pneumonia in a 65-year-old patient.",
+    "resource_type": "Media",
+    "id": 279
+  },
+  {
+    "statement": "An ultrasound image captures fetal development at 20 weeks gestation for prenatal assessment.",
+    "resource_type": "Media",
+    "id": 280
+  },
+  {
+    "statement": "An ultrasound image captures the fetal heartbeat at 20 weeks gestation during a routine prenatal visit.",
+    "resource_type": "Media",
+    "id": 281
+  },
+  {
+    "statement": "Ultrasound images of the patient\u2019s abdomen were captured to evaluate suspected gallstones during the clinical visit.",
+    "resource_type": "Media",
+    "id": 282
+  },
+  {
+    "statement": "A chest X-ray image was captured to evaluate a patient\u2019s persistent cough and rule out pneumonia.",
+    "resource_type": "Media",
+    "id": 283
+  },
+  {
+    "statement": "An ultrasound image capturing fetal development at 20 weeks gestation was uploaded to the patient's medical record.",
+    "resource_type": "Media",
+    "id": 284
+  },
+  {
+    "statement": "Ultrasound images of a pregnant patient were captured and stored for fetal growth assessment during the second trimester.",
+    "resource_type": "Media",
+    "id": 285
+  },
+  {
+    "statement": "A detailed hospital discharge summary was created outlining diagnosis, treatments, and follow-up instructions for a pneumonia patient.",
+    "resource_type": "Composition",
+    "id": 286
+  },
+  {
+    "statement": "A comprehensive discharge summary was created detailing the patient\u2019s hospital stay, treatments, and follow-up instructions.",
+    "resource_type": "Composition",
+    "id": 287
+  },
+  {
+    "statement": "The discharge summary details the hospital stay, treatments provided, and follow-up instructions for a patient recovering from pneumonia.",
+    "resource_type": "Composition",
+    "id": 288
+  },
+  {
+    "statement": "A discharge summary details the hospital stay, treatments received, and follow-up instructions for a patient after surgery.",
+    "resource_type": "Composition",
+    "id": 289
+  },
+  {
+    "statement": "A discharge summary documents the hospital stay, treatments received, and follow-up instructions for a patient after surgery.",
+    "resource_type": "Composition",
+    "id": 290
+  },
+  {
+    "statement": "A discharge summary documents the patient's hospital stay, treatments provided, and follow-up care instructions.",
+    "resource_type": "Composition",
+    "id": 291
+  },
+  {
+    "statement": "A comprehensive hospital discharge summary details diagnosis, treatments, and follow-up instructions for a recovering stroke patient.",
+    "resource_type": "Composition",
+    "id": 292
+  },
+  {
+    "statement": "A comprehensive discharge summary details a patient\u2019s hospital stay, treatments received, and follow-up care instructions.",
+    "resource_type": "Composition",
+    "id": 293
+  },
+  {
+    "statement": "A discharge summary documents the patient's hospital stay, treatments received, and follow-up care instructions.",
+    "resource_type": "Composition",
+    "id": 294
+  },
+  {
+    "statement": "A detailed hospital discharge summary outlines the patient's treatment, progress, and follow-up care instructions after surgery.",
+    "resource_type": "Composition",
+    "id": 295
+  },
+  {
+    "statement": "A discharge summary was created detailing the patient\u2019s hospital stay, treatments received, and follow-up care instructions.",
+    "resource_type": "Composition",
+    "id": 296
+  },
+  {
+    "statement": "Laboratory results confirm elevated blood glucose levels, indicating a possible diagnosis of diabetes mellitus.",
+    "resource_type": "DiagnosticReport",
+    "id": 297
+  },
+  {
+    "statement": "Lab results confirm elevated blood glucose levels, indicating possible diabetes in the patient after fasting blood test.",
+    "resource_type": "DiagnosticReport",
+    "id": 298
+  },
+  {
+    "statement": "The lab report confirms a positive COVID-19 PCR test result for a symptomatic outpatient.",
+    "resource_type": "DiagnosticReport",
+    "id": 299
+  },
+  {
+    "statement": "The lab results confirmed a positive influenza A infection in the patient presenting with fever and cough.",
+    "resource_type": "DiagnosticReport",
+    "id": 300
+  },
+  {
+    "statement": "Laboratory analysis confirmed positive streptococcal infection from throat swab culture in a 12-year-old with sore throat symptoms.",
+    "resource_type": "DiagnosticReport",
+    "id": 301
+  },
+  {
+    "statement": "Lab results indicate elevated white blood cell count and positive bacterial culture confirming urinary tract infection.",
+    "resource_type": "DiagnosticReport",
+    "id": 302
+  },
+  {
+    "statement": "The lab report reveals elevated white blood cell count indicating a possible bacterial infection.",
+    "resource_type": "DiagnosticReport",
+    "id": 303
+  },
+  {
+    "statement": "Laboratory results confirm a positive streptococcal infection from the throat swab collected yesterday.",
+    "resource_type": "DiagnosticReport",
+    "id": 304
+  },
+  {
+    "statement": "Laboratory results confirm a positive influenza A infection following a nasopharyngeal swab test.",
+    "resource_type": "DiagnosticReport",
+    "id": 305
+  },
+  {
+    "statement": "Laboratory results confirm a positive rapid strep test in a child presenting with sore throat and fever.",
+    "resource_type": "DiagnosticReport",
+    "id": 306
+  },
+  {
+    "statement": "Laboratory results confirm a positive influenza A test for a patient presenting with fever and cough symptoms.",
+    "resource_type": "DiagnosticReport",
+    "id": 307
+  },
+  {
+    "statement": "A blood sample was collected from the patient\u2019s left arm for laboratory analysis of infection markers.",
+    "resource_type": "Specimen",
+    "id": 308
+  },
+  {
+    "statement": "A blood sample was collected from a patient\u2019s left arm for laboratory testing of infection markers.",
+    "resource_type": "Specimen",
+    "id": 309
+  },
+  {
+    "statement": "A blood sample was collected from the patient\u2019s left arm for complete blood count testing.",
+    "resource_type": "Specimen",
+    "id": 310
+  },
+  {
+    "statement": "A blood sample was collected from a diabetic patient for glucose level testing during a routine clinic visit.",
+    "resource_type": "Specimen",
+    "id": 311
+  },
+  {
+    "statement": "A blood sample was collected from a patient\u2019s left arm for complete blood count analysis.",
+    "resource_type": "Specimen",
+    "id": 312
+  },
+  {
+    "statement": "A blood sample was collected from a patient\u2019s arm for laboratory analysis of infection markers.",
+    "resource_type": "Specimen",
+    "id": 313
+  },
+  {
+    "statement": "A blood sample was collected from a patient\u2019s left arm for laboratory analysis of infection markers.",
+    "resource_type": "Specimen",
+    "id": 314
+  },
+  {
+    "statement": "A blood sample was collected from the patient\u2019s left arm for laboratory analysis of infection markers.",
+    "resource_type": "Specimen",
+    "id": 315
+  },
+  {
+    "statement": "A blood sample was collected from the patient\u2019s left arm for routine cholesterol testing.",
+    "resource_type": "Specimen",
+    "id": 316
+  },
+  {
+    "statement": "A blood sample was collected from the patient\u2019s left arm for laboratory analysis of infection markers.",
+    "resource_type": "Specimen",
+    "id": 317
+  },
+  {
+    "statement": "A blood sample was collected from the patient\u2019s left arm for laboratory analysis of suspected infection.",
+    "resource_type": "Specimen",
+    "id": 318
+  },
+  {
+    "statement": "A chest X-ray was performed to evaluate suspected pneumonia in a 65-year-old patient with persistent cough and fever.",
+    "resource_type": "ImagingStudy",
+    "id": 319
+  },
+  {
+    "statement": "A chest X-ray was performed to evaluate persistent cough and rule out pneumonia in a 45-year-old patient.",
+    "resource_type": "ImagingStudy",
+    "id": 320
+  },
+  {
+    "statement": "A chest X-ray was performed to evaluate suspected pneumonia in a 65-year-old patient with persistent cough and fever.",
+    "resource_type": "ImagingStudy",
+    "id": 321
+  },
+  {
+    "statement": "A chest X-ray was performed to evaluate persistent cough and rule out pneumonia in a 45-year-old smoker.",
+    "resource_type": "ImagingStudy",
+    "id": 322
+  },
+  {
+    "statement": "A chest X-ray was performed to evaluate persistent cough and rule out pneumonia in a 45-year-old patient.",
+    "resource_type": "ImagingStudy",
+    "id": 323
+  },
+  {
+    "statement": "A chest X-ray was performed to evaluate a patient\u2019s persistent cough and rule out pneumonia.",
+    "resource_type": "ImagingStudy",
+    "id": 324
+  },
+  {
+    "statement": "A chest X-ray was performed to evaluate persistent cough and rule out pneumonia in a 45-year-old patient.",
+    "resource_type": "ImagingStudy",
+    "id": 325
+  },
+  {
+    "statement": "A chest X-ray was performed to evaluate persistent cough and rule out pneumonia in a 45-year-old smoker.",
+    "resource_type": "ImagingStudy",
+    "id": 326
+  },
+  {
+    "statement": "A chest X-ray was performed to evaluate suspected pneumonia in a 45-year-old patient presenting with fever and cough.",
+    "resource_type": "ImagingStudy",
+    "id": 327
+  },
+  {
+    "statement": "A chest X-ray was performed to evaluate suspected pneumonia in a 45-year-old patient with persistent cough and fever.",
+    "resource_type": "ImagingStudy",
+    "id": 328
+  },
+  {
+    "statement": "A chest X-ray was performed to evaluate a patient\u2019s persistent cough and rule out pneumonia.",
+    "resource_type": "ImagingStudy",
+    "id": 329
+  },
+  {
+    "statement": "The patient completed a detailed intake form reporting symptoms, medical history, and lifestyle factors before the clinic visit.",
+    "resource_type": "QuestionnaireResponse",
+    "id": 330
+  },
+  {
+    "statement": "The patient completed a preoperative survey detailing allergies, current medications, and recent symptoms before surgery.",
+    "resource_type": "QuestionnaireResponse",
+    "id": 331
+  },
+  {
+    "statement": "A completed survey capturing a diabetic patient's self-reported symptoms and medication adherence over the past week.",
+    "resource_type": "QuestionnaireResponse",
+    "id": 332
+  },
+  {
+    "statement": "A nurse documented a diabetes screening questionnaire completed by a patient during their annual wellness visit.",
+    "resource_type": "QuestionnaireResponse",
+    "id": 333
+  },
+  {
+    "statement": "A nurse records a patient's responses to a pre-surgery screening questionnaire about allergies and current medications.",
+    "resource_type": "QuestionnaireResponse",
+    "id": 334
+  },
+  {
+    "statement": "A nurse documented the patient's answers to a preoperative screening survey before surgery.",
+    "resource_type": "QuestionnaireResponse",
+    "id": 335
+  },
+  {
+    "statement": "A nurse documented a patient's allergy history and recent symptoms using a structured intake form during the clinic visit.",
+    "resource_type": "QuestionnaireResponse",
+    "id": 336
+  },
+  {
+    "statement": "A nurse recorded a patient's answers to a pre-surgery screening questionnaire assessing allergies and current medications.",
+    "resource_type": "QuestionnaireResponse",
+    "id": 337
+  },
+  {
+    "statement": "A nurse documented a patient's responses to a postoperative pain assessment questionnaire during the morning rounds.",
+    "resource_type": "QuestionnaireResponse",
+    "id": 338
+  },
+  {
+    "statement": "A diabetic patient completed a symptom survey reporting recent episodes of dizziness and fatigue during follow-up.",
+    "resource_type": "QuestionnaireResponse",
+    "id": 339
+  },
+  {
+    "statement": "A patient completed a pre-surgery survey detailing allergies, current medications, and recent symptoms for the surgical team\u2019s review.",
+    "resource_type": "QuestionnaireResponse",
+    "id": 340
+  },
+  {
+    "statement": "A nurse collects detailed allergy information and symptom descriptions from a patient using a structured survey form.",
+    "resource_type": "Questionnaire",
+    "id": 341
+  },
+  {
+    "statement": "A nurse collects detailed allergy history from a patient using a structured form during their initial clinic visit.",
+    "resource_type": "Questionnaire",
+    "id": 342
+  },
+  {
+    "statement": "A nurse collects a patient's allergy history and current symptoms using a structured digital form during intake.",
+    "resource_type": "Questionnaire",
+    "id": 343
+  },
+  {
+    "statement": "A nurse collects a patient\u2019s allergy history and current symptoms using a structured intake form during the initial visit.",
+    "resource_type": "Questionnaire",
+    "id": 344
+  },
+  {
+    "statement": "A nurse collects detailed allergy information from a patient before administering new medications.",
+    "resource_type": "Questionnaire",
+    "id": 345
+  },
+  {
+    "statement": "A nurse collects a patient\u2019s allergy history and current symptoms using a structured intake form during the clinic visit.",
+    "resource_type": "Questionnaire",
+    "id": 346
+  },
+  {
+    "statement": "A nurse collects a patient's allergy history and current symptoms using a structured digital form during the intake process.",
+    "resource_type": "Questionnaire",
+    "id": 347
+  },
+  {
+    "statement": "A nurse collects detailed allergy information from a patient using a structured symptom and exposure survey.",
+    "resource_type": "Questionnaire",
+    "id": 348
+  },
+  {
+    "statement": "A nurse collects a patient's smoking history and alcohol use through a structured intake form during the initial visit.",
+    "resource_type": "Questionnaire",
+    "id": 349
+  },
+  {
+    "statement": "A nurse collects a patient's allergy history and current symptoms using a structured form during a clinic visit.",
+    "resource_type": "Questionnaire",
+    "id": 350
+  },
+  {
+    "statement": "A nurse collects a patient\u2019s allergy history and current symptoms using a structured digital form during the initial visit.",
+    "resource_type": "Questionnaire",
+    "id": 351
+  },
+  {
+    "statement": "The patient\u2019s insurance plan covers outpatient physical therapy sessions for six weeks following knee surgery.",
+    "resource_type": "Coverage",
+    "id": 352
+  },
+  {
+    "statement": "The patient\u2019s insurance plan covers outpatient physical therapy sessions after knee surgery for six months.",
+    "resource_type": "Coverage",
+    "id": 353
+  },
+  {
+    "statement": "The patient\u2019s insurance plan covers outpatient physical therapy sessions following a recent knee surgery.",
+    "resource_type": "Coverage",
+    "id": 354
+  },
+  {
+    "statement": "The patient\u2019s insurance plan covers outpatient physical therapy sessions for post-surgical rehabilitation after knee replacement.",
+    "resource_type": "Coverage",
+    "id": 355
+  },
+  {
+    "statement": "The patient's insurance plan details confirm eligibility and benefits coverage for upcoming surgical procedures.",
+    "resource_type": "Coverage",
+    "id": 356
+  },
+  {
+    "statement": "The patient\u2019s insurance plan covers outpatient physical therapy sessions for six weeks following knee surgery.",
+    "resource_type": "Coverage",
+    "id": 357
+  },
+  {
+    "statement": "The patient\u2019s insurance plan covers outpatient physical therapy sessions with a $20 co-pay per visit.",
+    "resource_type": "Coverage",
+    "id": 358
+  },
+  {
+    "statement": "The patient\u2019s insurance details confirm active coverage for hospital services during the scheduled surgical procedure next week.",
+    "resource_type": "Coverage",
+    "id": 359
+  },
+  {
+    "statement": "The patient\u2019s insurance plan covers outpatient physical therapy sessions after knee replacement surgery.",
+    "resource_type": "Coverage",
+    "id": 360
+  },
+  {
+    "statement": "The patient's insurance plan covers primary care visits and outpatient lab tests under their employer-sponsored health benefit.",
+    "resource_type": "Coverage",
+    "id": 361
+  },
+  {
+    "statement": "The insurance plan covers 80% of the patient\u2019s outpatient physical therapy sessions after knee surgery.",
+    "resource_type": "Coverage",
+    "id": 362
+  },
+  {
+    "statement": "Insurance approved coverage for outpatient physical therapy following a knee replacement surgery.",
+    "resource_type": "ExplanationOfBenefit",
+    "id": 363
+  },
+  {
+    "statement": "Insurance approved coverage for a knee replacement surgery after reviewing the submitted medical and billing information.",
+    "resource_type": "ExplanationOfBenefit",
+    "id": 364
+  },
+  {
+    "statement": "An insurance claim was processed and approved for outpatient physical therapy sessions after a knee surgery.",
+    "resource_type": "ExplanationOfBenefit",
+    "id": 365
+  },
+  {
+    "statement": "Insurance approved coverage for a knee replacement surgery performed after a sports injury.",
+    "resource_type": "ExplanationOfBenefit",
+    "id": 366
+  },
+  {
+    "statement": "Insurance processed a claim for outpatient physical therapy sessions following knee replacement surgery.",
+    "resource_type": "ExplanationOfBenefit",
+    "id": 367
+  },
+  {
+    "statement": "Insurance approved partial payment for a knee replacement surgery performed on a 65-year-old patient.",
+    "resource_type": "ExplanationOfBenefit",
+    "id": 368
+  },
+  {
+    "statement": "An insurance claim details coverage and patient responsibility after a knee replacement surgery.",
+    "resource_type": "ExplanationOfBenefit",
+    "id": 369
+  },
+  {
+    "statement": "Insurance processed a claim covering the outpatient physical therapy sessions following a knee replacement surgery.",
+    "resource_type": "ExplanationOfBenefit",
+    "id": 370
+  },
+  {
+    "statement": "Insurance processed a claim covering outpatient physical therapy sessions following a knee replacement surgery.",
+    "resource_type": "ExplanationOfBenefit",
+    "id": 371
+  },
+  {
+    "statement": "Insurance approved coverage for a knee replacement surgery after reviewing submitted medical and billing claims.",
+    "resource_type": "ExplanationOfBenefit",
+    "id": 372
+  },
+  {
+    "statement": "The insurance company processed the claim for a knee MRI and approved coverage after reviewing the submitted medical documentation.",
+    "resource_type": "ExplanationOfBenefit",
+    "id": 373
+  },
+  {
+    "statement": "A billing request was submitted for a patient\u2019s outpatient visit covering consultation and laboratory tests.",
+    "resource_type": "Claim",
+    "id": 374
+  },
+  {
+    "statement": "A billing request was submitted for a patient\u2019s recent outpatient surgery and associated follow-up care services.",
+    "resource_type": "Claim",
+    "id": 375
+  },
+  {
+    "statement": "A healthcare provider submits a billing request for a knee MRI performed after a patient\u2019s sports injury.",
+    "resource_type": "Claim",
+    "id": 376
+  },
+  {
+    "statement": "A hospital submitted a billing request for services provided during a patient\u2019s inpatient surgery and postoperative care.",
+    "resource_type": "Claim",
+    "id": 377
+  },
+  {
+    "statement": "An insurance claim was submitted for a knee replacement surgery performed on a 65-year-old patient.",
+    "resource_type": "Claim",
+    "id": 378
+  },
+  {
+    "statement": "A hospital submitted a billing request for a patient's inpatient surgery and related diagnostic tests to the insurance company.",
+    "resource_type": "Claim",
+    "id": 379
+  },
+  {
+    "statement": "A billing submission details services provided for a diabetic patient\u2019s recent outpatient visit and associated laboratory tests.",
+    "resource_type": "Claim",
+    "id": 380
+  },
+  {
+    "statement": "A billing record was submitted for a routine office visit and laboratory tests performed on a diabetic patient.",
+    "resource_type": "Claim",
+    "id": 381
+  },
+  {
+    "statement": "An insurance claim was submitted for outpatient physical therapy sessions following a knee replacement surgery.",
+    "resource_type": "Claim",
+    "id": 382
+  },
+  {
+    "statement": "A healthcare provider submits a billing request for services rendered during a patient\u2019s outpatient visit following minor surgery.",
+    "resource_type": "Claim",
+    "id": 383
+  },
+  {
+    "statement": "A healthcare provider submits billing details for a knee replacement surgery performed on a 65-year-old patient.",
+    "resource_type": "Claim",
+    "id": 384
+  },
+  {
+    "statement": "An insurance company processed and approved the payment for a recent outpatient physical therapy claim.",
+    "resource_type": "ClaimResponse",
+    "id": 385
+  },
+  {
+    "statement": "Insurance denied part of the hospital bill due to missing documentation for the outpatient procedure performed.",
+    "resource_type": "ClaimResponse",
+    "id": 386
+  },
+  {
+    "statement": "The insurance company processed and adjusted the submitted hospital bill for a patient\u2019s recent surgical procedure.",
+    "resource_type": "ClaimResponse",
+    "id": 387
+  },
+  {
+    "statement": "The insurance company processed the hospital bill and approved partial payment for the outpatient surgical procedure.",
+    "resource_type": "ClaimResponse",
+    "id": 388
+  },
+  {
+    "statement": "An insurance company processed and responded to a hospital's billing claim for a recent outpatient surgery.",
+    "resource_type": "ClaimResponse",
+    "id": 389
+  },
+  {
+    "statement": "An insurance company processed and approved payment for a patient\u2019s recent outpatient physical therapy services.",
+    "resource_type": "ClaimResponse",
+    "id": 390
+  },
+  {
+    "statement": "Insurance company processed and approved the hospital bill for a knee replacement surgery with partial patient co-payment.",
+    "resource_type": "ClaimResponse",
+    "id": 391
+  },
+  {
+    "statement": "An insurance company processed and responded to a submitted claim for a recent outpatient physical therapy session.",
+    "resource_type": "ClaimResponse",
+    "id": 392
+  },
+  {
+    "statement": "The insurance company reviewed and approved coverage for the outpatient physical therapy sessions after surgery.",
+    "resource_type": "ClaimResponse",
+    "id": 393
+  },
+  {
+    "statement": "An insurance company processed the hospital bill and approved payment for the patient's recent outpatient surgery.",
+    "resource_type": "ClaimResponse",
+    "id": 394
+  },
+  {
+    "statement": "The insurance company processed the hospital bill and approved partial payment for the outpatient surgery claim.",
+    "resource_type": "ClaimResponse",
+    "id": 395
+  },
+  {
+    "statement": "An insurance company issued a notification confirming payment approval for a recent outpatient surgery claim.",
+    "resource_type": "PaymentNotice",
+    "id": 396
+  },
+  {
+    "statement": "An insurance company notifies the provider of payment details for a recent outpatient consultation claim.",
+    "resource_type": "PaymentNotice",
+    "id": 397
+  },
+  {
+    "statement": "The insurer issued a notification confirming payment approval for the recent outpatient cardiology services rendered.",
+    "resource_type": "PaymentNotice",
+    "id": 398
+  },
+  {
+    "statement": "An insurance company sent a payment confirmation for a recent hospital bill related to a patient\u2019s surgery.",
+    "resource_type": "PaymentNotice",
+    "id": 399
+  },
+  {
+    "statement": "An insurer issued a notification confirming payment approval for the recent hospital outpatient visit charges.",
+    "resource_type": "PaymentNotice",
+    "id": 400
+  },
+  {
+    "statement": "Insurance company issued a notification confirming payment approval for the recent outpatient surgery claim.",
+    "resource_type": "PaymentNotice",
+    "id": 401
+  },
+  {
+    "statement": "An insurance company issued a payment confirmation for a submitted hospital claim covering last month's surgical procedure.",
+    "resource_type": "PaymentNotice",
+    "id": 402
+  },
+  {
+    "statement": "An insurance company issued a payment confirmation for the outpatient physical therapy session billed last week.",
+    "resource_type": "PaymentNotice",
+    "id": 403
+  },
+  {
+    "statement": "Insurance company sent a payment confirmation for the recent outpatient visit billed by Dr. Lee\u2019s clinic.",
+    "resource_type": "PaymentNotice",
+    "id": 404
+  },
+  {
+    "statement": "An insurance company issued a payment confirmation for a recently processed outpatient surgery claim.",
+    "resource_type": "PaymentNotice",
+    "id": 405
+  },
+  {
+    "statement": "An insurance company issued a payment confirmation for a submitted hospital claim covering inpatient services.",
+    "resource_type": "PaymentNotice",
+    "id": 406
+  },
+  {
+    "statement": "An itemized bill was created detailing charges for laboratory tests and imaging services after outpatient consultation.",
+    "resource_type": "Invoice",
+    "id": 407
+  },
+  {
+    "statement": "The hospital generated a detailed bill for outpatient services including lab tests, imaging, and physician consultation fees.",
+    "resource_type": "Invoice",
+    "id": 408
+  },
+  {
+    "statement": "A detailed billing summary was created for outpatient services rendered during the patient\u2019s recent cardiology visit.",
+    "resource_type": "Invoice",
+    "id": 409
+  },
+  {
+    "statement": "An itemized bill was generated for outpatient services, including lab tests and consultation fees after the clinic visit.",
+    "resource_type": "Invoice",
+    "id": 410
+  },
+  {
+    "statement": "An outpatient visit generated charges for lab tests, consultation, and prescribed medications requiring billing and payment processing.",
+    "resource_type": "Invoice",
+    "id": 411
+  },
+  {
+    "statement": "The hospital generated a detailed bill for outpatient services including lab tests, imaging, and physician consultation fees.",
+    "resource_type": "Invoice",
+    "id": 412
+  },
+  {
+    "statement": "The hospital generated a detailed bill for outpatient services and diagnostic tests performed during a follow-up visit.",
+    "resource_type": "Invoice",
+    "id": 413
+  },
+  {
+    "statement": "An itemized bill was generated for outpatient lab tests and physician consultation after the follow-up visit.",
+    "resource_type": "Invoice",
+    "id": 414
+  },
+  {
+    "statement": "The billing statement details charges for laboratory tests and imaging performed during the outpatient visit.",
+    "resource_type": "Invoice",
+    "id": 415
+  },
+  {
+    "statement": "The hospital generated a detailed billing summary for outpatient services provided during the recent cardiology follow-up visit.",
+    "resource_type": "Invoice",
+    "id": 416
+  },
+  {
+    "statement": "The hospital billing department issued a detailed statement for outpatient services and laboratory tests performed during the clinic visit.",
+    "resource_type": "Invoice",
+    "id": 417
+  },
+  {
+    "statement": "The hospital billing system tracks charges and payments for a patient\u2019s inpatient stay during their surgery recovery.",
+    "resource_type": "Account",
+    "id": 418
+  },
+  {
+    "statement": "The hospital billing department tracks all charges and payments for Mary\u2019s inpatient stay during her surgery recovery.",
+    "resource_type": "Account",
+    "id": 419
+  },
+  {
+    "statement": "The hospital billing department tracks charges and payments for a patient\u2019s inpatient stay during surgery and recovery.",
+    "resource_type": "Account",
+    "id": 420
+  },
+  {
+    "statement": "The hospital created a billing record to track all charges related to Sarah Lee\u2019s inpatient surgery and recovery stay.",
+    "resource_type": "Account",
+    "id": 421
+  },
+  {
+    "statement": "The hospital billing system tracks charges and payments for Jane Doe\u2019s inpatient stay during her surgery recovery.",
+    "resource_type": "Account",
+    "id": 422
+  },
+  {
+    "statement": "The hospital billing department tracked all charges and payments related to Maria Gomez\u2019s inpatient surgery and recovery stay.",
+    "resource_type": "Account",
+    "id": 423
+  },
+  {
+    "statement": "The hospital billing department tracks charges and payments for a patient\u2019s inpatient stay after surgery.",
+    "resource_type": "Account",
+    "id": 424
+  },
+  {
+    "statement": "Billing account created to track all charges and payments for a patient\u2019s inpatient hospital stay.",
+    "resource_type": "Account",
+    "id": 425
+  },
+  {
+    "statement": "The hospital created a billing record to track all charges and payments for a patient's inpatient stay.",
+    "resource_type": "Account",
+    "id": 426
+  },
+  {
+    "statement": "The hospital billing system tracks charges and payments for a patient\u2019s inpatient stay and related services.",
+    "resource_type": "Account",
+    "id": 427
+  },
+  {
+    "statement": "The hospital billing system tracked charges and payments for Sarah Lee\u2019s inpatient surgery and post-operative care.",
+    "resource_type": "Account",
+    "id": 428
+  },
+  {
+    "statement": "The hospital billed the patient for a CT scan of the abdomen performed during their emergency visit.",
+    "resource_type": "ChargeItem",
+    "id": 429
+  },
+  {
+    "statement": "A hospital billed a patient for an MRI scan performed during an outpatient neurology consultation.",
+    "resource_type": "ChargeItem",
+    "id": 430
+  },
+  {
+    "statement": "Billing details were recorded for a CT scan performed on a patient following a suspected stroke evaluation.",
+    "resource_type": "ChargeItem",
+    "id": 431
+  },
+  {
+    "statement": "The hospital billed the patient's insurance for a CT scan performed during the emergency room visit.",
+    "resource_type": "ChargeItem",
+    "id": 432
+  },
+  {
+    "statement": "The hospital billed for a 30-minute physical therapy session provided to a recovering stroke patient.",
+    "resource_type": "ChargeItem",
+    "id": 433
+  },
+  {
+    "statement": "The hospital billed for a CT scan performed on a patient following a suspected stroke evaluation.",
+    "resource_type": "ChargeItem",
+    "id": 434
+  },
+  {
+    "statement": "The hospital billed for a CT scan performed on a patient following a suspected stroke in the emergency department.",
+    "resource_type": "ChargeItem",
+    "id": 435
+  },
+  {
+    "statement": "A hospital billed for a CT scan performed on a patient following a motor vehicle accident.",
+    "resource_type": "ChargeItem",
+    "id": 436
+  },
+  {
+    "statement": "A hospital billed the patient's insurance for a chest X-ray performed during the outpatient visit.",
+    "resource_type": "ChargeItem",
+    "id": 437
+  },
+  {
+    "statement": "Billing details were recorded for a 2024 MRI scan performed on a patient with suspected spinal injury.",
+    "resource_type": "ChargeItem",
+    "id": 438
+  },
+  {
+    "statement": "A radiology department billed the patient's insurance for a chest X-ray performed during the hospital visit.",
+    "resource_type": "ChargeItem",
+    "id": 439
+  },
+  {
+    "statement": "A signed agreement outlines the patient's consent for sharing medical records between two healthcare providers.",
+    "resource_type": "Contract",
+    "id": 440
+  },
+  {
+    "statement": "An insurance agreement outlines coverage terms and patient responsibilities before starting a complex surgical procedure.",
+    "resource_type": "Contract",
+    "id": 441
+  },
+  {
+    "statement": "The healthcare provider and patient agreed on a treatment plan outlining responsibilities and consent for upcoming surgery.",
+    "resource_type": "Contract",
+    "id": 442
+  },
+  {
+    "statement": "A signed agreement outlines the patient's consent for sharing medical records with a specialist clinic.",
+    "resource_type": "Contract",
+    "id": 443
+  },
+  {
+    "statement": "The clinic and insurance company agreed on coverage terms for a patient\u2019s upcoming knee replacement surgery.",
+    "resource_type": "Contract",
+    "id": 444
+  },
+  {
+    "statement": "A signed agreement outlines the terms for sharing a patient\u2019s medical records between two healthcare providers.",
+    "resource_type": "Contract",
+    "id": 445
+  },
+  {
+    "statement": "An insurance agreement outlines coverage terms and patient responsibilities for upcoming surgical procedures.",
+    "resource_type": "Contract",
+    "id": 446
+  },
+  {
+    "statement": "An agreement outlines the terms for sharing a patient's medical records between two healthcare organizations.",
+    "resource_type": "Contract",
+    "id": 447
+  },
+  {
+    "statement": "A signed agreement outlines the terms for sharing a patient\u2019s health data between two medical providers.",
+    "resource_type": "Contract",
+    "id": 448
+  },
+  {
+    "statement": "An agreement outlines the terms for sharing a patient\u2019s health records between two clinics for coordinated care.",
+    "resource_type": "Contract",
+    "id": 449
+  },
+  {
+    "statement": "A healthcare provider and insurance company agreed on coverage terms for elective knee surgery prior to the procedure.",
+    "resource_type": "Contract",
+    "id": 450
+  },
+  {
+    "statement": "A primary care provider submits a request to enroll a patient into a new health insurance plan for coverage.",
+    "resource_type": "EnrollmentRequest",
+    "id": 451
+  },
+  {
+    "statement": "A patient requests enrollment in a new health insurance plan to begin coverage for upcoming treatments.",
+    "resource_type": "EnrollmentRequest",
+    "id": 452
+  },
+  {
+    "statement": "A new employee submits health insurance enrollment details to activate their medical coverage starting next month.",
+    "resource_type": "EnrollmentRequest",
+    "id": 453
+  },
+  {
+    "statement": "A new employee submits their health insurance information to enroll in the company\u2019s medical benefits plan.",
+    "resource_type": "EnrollmentRequest",
+    "id": 454
+  },
+  {
+    "statement": "A primary care clinic submits a request to enroll a new patient into their insurance plan for coverage verification.",
+    "resource_type": "EnrollmentRequest",
+    "id": 455
+  },
+  {
+    "statement": "A patient requests enrollment in a new health insurance plan to begin coverage next month.",
+    "resource_type": "EnrollmentRequest",
+    "id": 456
+  },
+  {
+    "statement": "A primary care provider submits a request to enroll a new patient in a chronic disease management program.",
+    "resource_type": "EnrollmentRequest",
+    "id": 457
+  },
+  {
+    "statement": "A new patient requests coverage enrollment to begin health insurance benefits for upcoming medical treatments.",
+    "resource_type": "EnrollmentRequest",
+    "id": 458
+  },
+  {
+    "statement": "A healthcare provider submits a request to enroll a patient in a new insurance plan for upcoming treatment coverage.",
+    "resource_type": "EnrollmentRequest",
+    "id": 459
+  },
+  {
+    "statement": "A patient requests enrollment in a new health insurance plan to begin coverage next month.",
+    "resource_type": "EnrollmentRequest",
+    "id": 460
+  },
+  {
+    "statement": "A patient submits an application to enroll in a new health insurance plan before starting treatment.",
+    "resource_type": "EnrollmentRequest",
+    "id": 461
+  },
+  {
+    "statement": "An optometrist prescribed updated corrective lenses with specific measurements to improve a patient's nearsightedness.",
+    "resource_type": "VisionPrescription",
+    "id": 462
+  },
+  {
+    "statement": "The optometrist issued a prescription for eyeglasses with updated lens measurements after the patient\u2019s annual eye exam.",
+    "resource_type": "VisionPrescription",
+    "id": 463
+  },
+  {
+    "statement": "An optometrist issued a detailed prescription for corrective lenses after diagnosing myopia in a routine eye exam.",
+    "resource_type": "VisionPrescription",
+    "id": 464
+  },
+  {
+    "statement": "An optometrist prescribed progressive lenses to improve near and distance vision for a patient with presbyopia.",
+    "resource_type": "VisionPrescription",
+    "id": 465
+  },
+  {
+    "statement": "An optometrist prescribed new glasses with updated lens measurements for a patient\u2019s worsening nearsightedness.",
+    "resource_type": "VisionPrescription",
+    "id": 466
+  },
+  {
+    "statement": "An optometrist prescribed new corrective lenses for a patient with worsening nearsightedness after the annual eye exam.",
+    "resource_type": "VisionPrescription",
+    "id": 467
+  },
+  {
+    "statement": "An optometrist prescribed updated corrective lenses for a patient with progressive nearsightedness.",
+    "resource_type": "VisionPrescription",
+    "id": 468
+  },
+  {
+    "statement": "An optometrist prescribed new corrective lenses for a patient with worsening nearsightedness after their annual eye exam.",
+    "resource_type": "VisionPrescription",
+    "id": 469
+  },
+  {
+    "statement": "An optometrist prescribed new corrective lenses for a patient experiencing worsening nearsightedness.",
+    "resource_type": "VisionPrescription",
+    "id": 470
+  },
+  {
+    "statement": "An optometrist prescribed updated glasses with a -2.50 spherical correction for nearsightedness in a routine eye exam.",
+    "resource_type": "VisionPrescription",
+    "id": 471
+  },
+  {
+    "statement": "The optometrist provided a corrective lens prescription for a patient with newly diagnosed myopia.",
+    "resource_type": "VisionPrescription",
+    "id": 472
+  },
+  {
+    "statement": "A hospitalized patient requires a diabetic-friendly meal plan with controlled carbohydrate intake and regular nutritional supplements.",
+    "resource_type": "NutritionOrder",
+    "id": 473
+  },
+  {
+    "statement": "The dietitian requested a high-protein, low-sodium meal plan for the hospitalized patient recovering from surgery.",
+    "resource_type": "NutritionOrder",
+    "id": 474
+  },
+  {
+    "statement": "A hospitalized patient requires a high-protein, low-sodium diet with tube feeding to support recovery after surgery.",
+    "resource_type": "NutritionOrder",
+    "id": 475
+  },
+  {
+    "statement": "A hospitalized patient requires a diabetic-consistent enteral feeding plan to manage blood sugar levels effectively.",
+    "resource_type": "NutritionOrder",
+    "id": 476
+  },
+  {
+    "statement": "The dietitian requested a high-protein, low-sodium meal plan to support the patient\u2019s recovery after surgery.",
+    "resource_type": "NutritionOrder",
+    "id": 477
+  },
+  {
+    "statement": "A hospitalized patient requires a high-protein, low-sodium diet to support recovery after surgery.",
+    "resource_type": "NutritionOrder",
+    "id": 478
+  },
+  {
+    "statement": "An elderly patient requires a high-protein, low-sodium diet prescribed due to recent hospitalization for heart failure.",
+    "resource_type": "NutritionOrder",
+    "id": 479
+  },
+  {
+    "statement": "A hospitalized patient requires a high-protein, low-sodium enteral feeding plan to support recovery after surgery.",
+    "resource_type": "NutritionOrder",
+    "id": 480
+  },
+  {
+    "statement": "The dietitian prescribed a low-sodium, high-protein meal plan for the patient recovering from heart surgery.",
+    "resource_type": "NutritionOrder",
+    "id": 481
+  },
+  {
+    "statement": "The dietitian requested a high-protein, low-sodium meal plan for a post-surgical patient recovering from kidney surgery.",
+    "resource_type": "NutritionOrder",
+    "id": 482
+  },
+  {
+    "statement": "A physician requests a high-protein, low-sodium diet plan for a hospitalized patient recovering from surgery.",
+    "resource_type": "NutritionOrder",
+    "id": 483
+  },
+  {
+    "statement": "The clinic requests an urgent delivery of sterile gloves and syringes to restock the procedure room inventory.",
+    "resource_type": "SupplyRequest",
+    "id": 484
+  },
+  {
+    "statement": "The clinic requested a new shipment of sterile gloves and masks to restock the emergency department supplies.",
+    "resource_type": "SupplyRequest",
+    "id": 485
+  },
+  {
+    "statement": "The clinic requested additional sterile gloves and syringes to restock supplies for upcoming flu vaccinations.",
+    "resource_type": "SupplyRequest",
+    "id": 486
+  },
+  {
+    "statement": "The clinic requested 50 sterile syringes to restock supplies for upcoming vaccination appointments.",
+    "resource_type": "SupplyRequest",
+    "id": 487
+  },
+  {
+    "statement": "The clinic requests additional sterile gloves and syringes to support the upcoming vaccination campaign.",
+    "resource_type": "SupplyRequest",
+    "id": 488
+  },
+  {
+    "statement": "The clinic requests a batch of sterile gloves to restock supplies before the upcoming vaccination drive.",
+    "resource_type": "SupplyRequest",
+    "id": 489
+  },
+  {
+    "statement": "The clinic requested a shipment of sterile gloves and syringes to restock the emergency treatment room supplies.",
+    "resource_type": "SupplyRequest",
+    "id": 490
+  },
+  {
+    "statement": "The clinic requested additional sterile gloves and syringes to restock inventory for upcoming vaccination clinics.",
+    "resource_type": "SupplyRequest",
+    "id": 491
+  },
+  {
+    "statement": "The clinic requested a new shipment of sterile gloves to restock supplies for upcoming surgical procedures.",
+    "resource_type": "SupplyRequest",
+    "id": 492
+  },
+  {
+    "statement": "The clinic requests a shipment of sterile gloves and face masks to prepare for an upcoming flu vaccination drive.",
+    "resource_type": "SupplyRequest",
+    "id": 493
+  },
+  {
+    "statement": "The nursing unit requests a new shipment of sterile gloves to maintain infection control during patient care.",
+    "resource_type": "SupplyRequest",
+    "id": 494
+  },
+  {
+    "statement": "The hospital received a shipment of sterile gloves and surgical masks for upcoming procedures.",
+    "resource_type": "SupplyDelivery",
+    "id": 495
+  },
+  {
+    "statement": "The hospital received a delivery of sterile gloves and syringes to restock the emergency department supply room.",
+    "resource_type": "SupplyDelivery",
+    "id": 496
+  },
+  {
+    "statement": "The hospital received a shipment of sterile gloves and syringes for the upcoming surgical procedures.",
+    "resource_type": "SupplyDelivery",
+    "id": 497
+  },
+  {
+    "statement": "A nurse received a shipment of sterile gloves and masks to restock the emergency room supply cabinet.",
+    "resource_type": "SupplyDelivery",
+    "id": 498
+  },
+  {
+    "statement": "The hospital pharmacy delivered a batch of sterile gloves to the surgical unit for upcoming procedures.",
+    "resource_type": "SupplyDelivery",
+    "id": 499
+  },
+  {
+    "statement": "The hospital received a shipment of sterile gloves and masks to restock the surgical supply inventory.",
+    "resource_type": "SupplyDelivery",
+    "id": 500
+  },
+  {
+    "statement": "The hospital received a shipment of sterile gloves to restock the operating room supply cabinet.",
+    "resource_type": "SupplyDelivery",
+    "id": 501
+  },
+  {
+    "statement": "The hospital received a delivery of sterile surgical gloves to restock the operating room inventory.",
+    "resource_type": "SupplyDelivery",
+    "id": 502
+  },
+  {
+    "statement": "The hospital received a new shipment of sterile gloves to restock the emergency room supply cabinet.",
+    "resource_type": "SupplyDelivery",
+    "id": 503
+  },
+  {
+    "statement": "The hospital pharmacy delivered a batch of sterile gloves to the surgical unit for upcoming procedures.",
+    "resource_type": "SupplyDelivery",
+    "id": 504
+  },
+  {
+    "statement": "A shipment of sterile gloves was delivered to the surgical unit to restock inventory before upcoming procedures.",
+    "resource_type": "SupplyDelivery",
+    "id": 505
+  },
+  {
+    "statement": "A donor\u2019s harvested bone marrow was processed and prepared for transplantation into a leukemia patient.",
+    "resource_type": "BiologicallyDerivedProduct",
+    "id": 506
+  },
+  {
+    "statement": "A donated bone marrow sample was collected from the donor for transplantation into a leukemia patient.",
+    "resource_type": "BiologicallyDerivedProduct",
+    "id": 507
+  },
+  {
+    "statement": "A donor\u2019s stem cells were collected and processed for transplantation to treat a patient with leukemia.",
+    "resource_type": "BiologicallyDerivedProduct",
+    "id": 508
+  },
+  {
+    "statement": "A donated unit of platelet-rich plasma was prepared for transfusion to a patient with severe thrombocytopenia.",
+    "resource_type": "BiologicallyDerivedProduct",
+    "id": 509
+  },
+  {
+    "statement": "A collected platelet donation was processed and prepared for transfusion to a trauma patient.",
+    "resource_type": "BiologicallyDerivedProduct",
+    "id": 510
+  },
+  {
+    "statement": "A donated bone marrow sample was collected for transplantation into a patient with leukemia.",
+    "resource_type": "BiologicallyDerivedProduct",
+    "id": 511
+  },
+  {
+    "statement": "A donated unit of platelet-rich plasma was prepared for transfusion to a patient with severe thrombocytopenia.",
+    "resource_type": "BiologicallyDerivedProduct",
+    "id": 512
+  },
+  {
+    "statement": "A donor's platelet concentrate was collected and prepared for transfusion to treat a patient's thrombocytopenia.",
+    "resource_type": "BiologicallyDerivedProduct",
+    "id": 513
+  },
+  {
+    "statement": "A donated unit of platelets was collected and prepared for transfusion to treat a patient\u2019s severe bleeding.",
+    "resource_type": "BiologicallyDerivedProduct",
+    "id": 514
+  },
+  {
+    "statement": "A donated blood unit was collected and processed for transfusion to a trauma patient in the emergency room.",
+    "resource_type": "BiologicallyDerivedProduct",
+    "id": 515
+  },
+  {
+    "statement": "A donor's harvested stem cells were collected for transplantation in a patient with leukemia.",
+    "resource_type": "BiologicallyDerivedProduct",
+    "id": 516
+  },
+  {
+    "statement": "A clinical trial is evaluating the effectiveness of a new diabetes medication in adults aged 40 to 65.",
+    "resource_type": "ResearchStudy",
+    "id": 517
+  },
+  {
+    "statement": "A clinical trial is evaluating the effectiveness of a new diabetes medication in adults aged 40 to 65.",
+    "resource_type": "ResearchStudy",
+    "id": 518
+  },
+  {
+    "statement": "A clinical trial is evaluating the effectiveness of a new diabetes medication in adults aged 40-65.",
+    "resource_type": "ResearchStudy",
+    "id": 519
+  },
+  {
+    "statement": "A clinical trial is evaluating the effectiveness of a new insulin pump in managing type 1 diabetes.",
+    "resource_type": "ResearchStudy",
+    "id": 520
+  },
+  {
+    "statement": "A clinical trial is testing a new diabetes medication\u2019s effectiveness in reducing blood sugar levels in adults.",
+    "resource_type": "ResearchStudy",
+    "id": 521
+  },
+  {
+    "statement": "A clinical trial is evaluating the effectiveness of a new diabetes medication in improving blood sugar control over six months.",
+    "resource_type": "ResearchStudy",
+    "id": 522
+  },
+  {
+    "statement": "A clinical trial is evaluating the effectiveness of a new insulin pump in managing type 1 diabetes patients.",
+    "resource_type": "ResearchStudy",
+    "id": 523
+  },
+  {
+    "statement": "A clinical trial is evaluating the effectiveness of a new diabetes medication in adults aged 40 to 65.",
+    "resource_type": "ResearchStudy",
+    "id": 524
+  },
+  {
+    "statement": "A clinical trial is evaluating the effectiveness of a new diabetes medication in adults with type 2 diabetes over six months.",
+    "resource_type": "ResearchStudy",
+    "id": 525
+  },
+  {
+    "statement": "A clinical trial is evaluating the effectiveness of a new diabetes medication in adults aged 40-65.",
+    "resource_type": "ResearchStudy",
+    "id": 526
+  },
+  {
+    "statement": "A clinical trial is evaluating the effectiveness of a new diabetes medication in adults aged 40 to 65.",
+    "resource_type": "ResearchStudy",
+    "id": 527
+  },
+  {
+    "statement": "A volunteer enrolled in a clinical trial to evaluate the effectiveness of a new diabetes medication.",
+    "resource_type": "ResearchSubject",
+    "id": 528
+  },
+  {
+    "statement": "A volunteer enrolled in a clinical trial to evaluate the effectiveness of a new diabetes medication.",
+    "resource_type": "ResearchSubject",
+    "id": 529
+  },
+  {
+    "statement": "A volunteer enrolled in a clinical trial to evaluate the effectiveness of a new diabetes medication.",
+    "resource_type": "ResearchSubject",
+    "id": 530
+  },
+  {
+    "statement": "A volunteer enrolled in a clinical trial to evaluate the effectiveness of a new diabetes medication.",
+    "resource_type": "ResearchSubject",
+    "id": 531
+  },
+  {
+    "statement": "A volunteer enrolled in a clinical trial to evaluate the effectiveness of a new diabetes medication.",
+    "resource_type": "ResearchSubject",
+    "id": 532
+  },
+  {
+    "statement": "A volunteer enrolled in a clinical trial testing a new diabetes medication to evaluate safety and effectiveness.",
+    "resource_type": "ResearchSubject",
+    "id": 533
+  },
+  {
+    "statement": "A volunteer enrolled in a clinical trial to evaluate the effectiveness of a new diabetes medication.",
+    "resource_type": "ResearchSubject",
+    "id": 534
+  },
+  {
+    "statement": "A volunteer enrolled in a clinical trial to evaluate the effectiveness of a new diabetes medication.",
+    "resource_type": "ResearchSubject",
+    "id": 535
+  },
+  {
+    "statement": "A volunteer enrolled in a clinical trial to evaluate the effectiveness of a new diabetes medication.",
+    "resource_type": "ResearchSubject",
+    "id": 536
+  },
+  {
+    "statement": "A volunteer enrolled in a clinical trial to evaluate the effectiveness of a new diabetes medication.",
+    "resource_type": "ResearchSubject",
+    "id": 537
+  },
+  {
+    "statement": "A patient enrolled in a clinical trial is monitored for responses to a new diabetes medication over six months.",
+    "resource_type": "ResearchSubject",
+    "id": 538
+  },
+  {
+    "statement": "A clinic established a standardized protocol for administering the seasonal influenza vaccine to eligible adult patients.",
+    "resource_type": "ActivityDefinition",
+    "id": 539
+  },
+  {
+    "statement": "A standardized protocol guides nurses to administer influenza vaccines during annual flu season clinics.",
+    "resource_type": "ActivityDefinition",
+    "id": 540
+  },
+  {
+    "statement": "A standardized protocol outlines steps for administering the influenza vaccine during annual patient visits.",
+    "resource_type": "ActivityDefinition",
+    "id": 541
+  },
+  {
+    "statement": "A standardized plan outlines administering intravenous antibiotics every eight hours for patients with suspected bacterial pneumonia.",
+    "resource_type": "ActivityDefinition",
+    "id": 542
+  },
+  {
+    "statement": "A standardized protocol outlines the steps for administering the influenza vaccine to adults during the annual flu season.",
+    "resource_type": "ActivityDefinition",
+    "id": 543
+  },
+  {
+    "statement": "A standardized protocol outlines the steps for administering the seasonal influenza vaccine to adults in primary care.",
+    "resource_type": "ActivityDefinition",
+    "id": 544
+  },
+  {
+    "statement": "A protocol outlines administering a tetanus vaccine booster to adults with a wound injury within 48 hours.",
+    "resource_type": "ActivityDefinition",
+    "id": 545
+  },
+  {
+    "statement": "A protocol for administering influenza vaccine annually to adults during flu season in primary care settings.",
+    "resource_type": "ActivityDefinition",
+    "id": 546
+  },
+  {
+    "statement": "A standardized care plan outlines the steps for administering influenza vaccination to adults during the flu season.",
+    "resource_type": "ActivityDefinition",
+    "id": 547
+  },
+  {
+    "statement": "A standardized protocol outlines administering a flu vaccine to adults during the annual immunization campaign.",
+    "resource_type": "ActivityDefinition",
+    "id": 548
+  },
+  {
+    "statement": "A standardized protocol outlines administering a tetanus vaccine booster to adults with a recent wound injury.",
+    "resource_type": "ActivityDefinition",
+    "id": 549
+  },
+  {
+    "statement": "A standardized care pathway outlines steps for managing newly diagnosed type 2 diabetes in adult patients.",
+    "resource_type": "PlanDefinition",
+    "id": 550
+  },
+  {
+    "statement": "A care plan guides diabetes patients through regular blood sugar monitoring, medication adjustments, and lifestyle counseling.",
+    "resource_type": "PlanDefinition",
+    "id": 551
+  },
+  {
+    "statement": "A care pathway outlines step-by-step management for newly diagnosed type 2 diabetes patients, including lifestyle and medication plans.",
+    "resource_type": "PlanDefinition",
+    "id": 552
+  },
+  {
+    "statement": "A standardized care plan guides follow-up visits and medication adjustments for newly diagnosed type 2 diabetes patients.",
+    "resource_type": "PlanDefinition",
+    "id": 553
+  },
+  {
+    "statement": "A care pathway outlines step-by-step antibiotic treatment for community-acquired pneumonia in adults.",
+    "resource_type": "PlanDefinition",
+    "id": 554
+  },
+  {
+    "statement": "A standardized care plan outlines step-by-step management for newly diagnosed type 2 diabetes patients.",
+    "resource_type": "PlanDefinition",
+    "id": 555
+  },
+  {
+    "statement": "A standardized protocol guides clinicians through postoperative pain management for adult patients after knee replacement surgery.",
+    "resource_type": "PlanDefinition",
+    "id": 556
+  },
+  {
+    "statement": "A standardized care plan outlines step-by-step management for newly diagnosed type 2 diabetes patients.",
+    "resource_type": "PlanDefinition",
+    "id": 557
+  },
+  {
+    "statement": "A care plan outlines step-by-step management for newly diagnosed type 2 diabetes patients, including lifestyle and medication guidance.",
+    "resource_type": "PlanDefinition",
+    "id": 558
+  },
+  {
+    "statement": "A care plan outlines the step-by-step management for newly diagnosed type 2 diabetes patients, including lifestyle changes and medication.",
+    "resource_type": "PlanDefinition",
+    "id": 559
+  },
+  {
+    "statement": "A standardized care pathway guides the management of newly diagnosed type 2 diabetes with medication, lifestyle changes, and monitoring.",
+    "resource_type": "PlanDefinition",
+    "id": 560
+  },
+  {
+    "statement": "Tracking the percentage of diabetic patients receiving annual eye exams to improve preventive care outcomes in the clinic.",
+    "resource_type": "Measure",
+    "id": 561
+  },
+  {
+    "statement": "A quality measure tracks the percentage of diabetic patients receiving annual eye exams to prevent vision loss.",
+    "resource_type": "Measure",
+    "id": 562
+  },
+  {
+    "statement": "Tracking the percentage of diabetic patients with controlled blood sugar levels during their annual health visits.",
+    "resource_type": "Measure",
+    "id": 563
+  },
+  {
+    "statement": "Tracking the percentage of diabetic patients receiving annual eye exams to improve preventive care outcomes.",
+    "resource_type": "Measure",
+    "id": 564
+  },
+  {
+    "statement": "Tracking the percentage of diabetic patients receiving annual eye exams to improve complication prevention efforts.",
+    "resource_type": "Measure",
+    "id": 565
+  },
+  {
+    "statement": "Tracking the percentage of diabetic patients receiving annual eye exams to monitor and improve care quality.",
+    "resource_type": "Measure",
+    "id": 566
+  },
+  {
+    "statement": "Tracking the percentage of diabetic patients receiving annual eye exams to monitor and improve quality of care.",
+    "resource_type": "Measure",
+    "id": 567
+  },
+  {
+    "statement": "Tracking the percentage of diabetic patients receiving annual eye exams to monitor and improve care quality within the clinic.",
+    "resource_type": "Measure",
+    "id": 568
+  },
+  {
+    "statement": "Tracking the percentage of diabetic patients receiving annual eye exams to monitor quality of care in the clinic.",
+    "resource_type": "Measure",
+    "id": 569
+  },
+  {
+    "statement": "Tracking the percentage of diabetic patients receiving annual eye exams to improve preventive care outcomes.",
+    "resource_type": "Measure",
+    "id": 570
+  },
+  {
+    "statement": "Tracking the percentage of diabetic patients receiving annual eye exams to monitor for retinopathy complications.",
+    "resource_type": "Measure",
+    "id": 571
+  },
+  {
+    "statement": "The monthly report summarizes compliance rates with diabetes care guidelines across the primary care clinic.",
+    "resource_type": "MeasureReport",
+    "id": 572
+  },
+  {
+    "statement": "A quarterly summary shows 75% of diabetic patients received recommended blood sugar and foot exams.",
+    "resource_type": "MeasureReport",
+    "id": 573
+  },
+  {
+    "statement": "The clinic\u2019s quarterly report summarizes diabetes control rates among adult patients based on recent HbA1c test results.",
+    "resource_type": "MeasureReport",
+    "id": 574
+  },
+  {
+    "statement": "The clinic's quarterly report summarizes the percentage of diabetic patients meeting blood sugar control targets.",
+    "resource_type": "MeasureReport",
+    "id": 575
+  },
+  {
+    "statement": "The report summarizes compliance rates with diabetes care guidelines among adults seen in the primary care clinic last quarter.",
+    "resource_type": "MeasureReport",
+    "id": 576
+  },
+  {
+    "statement": "A summary of diabetic patients meeting blood sugar control targets within the past quarter at a primary care clinic.",
+    "resource_type": "MeasureReport",
+    "id": 577
+  },
+  {
+    "statement": "Monthly report summarizes diabetic patients' blood sugar control rates across the primary care clinic.",
+    "resource_type": "MeasureReport",
+    "id": 578
+  },
+  {
+    "statement": "The clinic\u2019s quarterly report summarizes diabetes screening rates and follow-up care compliance among adult patients.",
+    "resource_type": "MeasureReport",
+    "id": 579
+  },
+  {
+    "statement": "The clinic's monthly report summarizes the percentage of diabetic patients who received recommended HbA1c testing.",
+    "resource_type": "MeasureReport",
+    "id": 580
+  },
+  {
+    "statement": "Monthly report summarizes the percentage of diabetic patients meeting their HbA1c targets across the clinic.",
+    "resource_type": "MeasureReport",
+    "id": 581
+  },
+  {
+    "statement": "The clinic's quarterly report summarizes diabetes control rates based on patients' latest HbA1c test results.",
+    "resource_type": "MeasureReport",
+    "id": 582
+  },
+  {
+    "statement": "A clinical decision support tool provides updated antibiotic prescribing guidelines for treating community-acquired pneumonia.",
+    "resource_type": "Library",
+    "id": 583
+  },
+  {
+    "statement": "A clinical decision support tool providing guidelines for managing diabetic ketoacidosis in hospitalized adults.",
+    "resource_type": "Library",
+    "id": 584
+  },
+  {
+    "statement": "A clinical decision support tool provides guidelines for managing sepsis in hospitalized adult patients.",
+    "resource_type": "Library",
+    "id": 585
+  },
+  {
+    "statement": "A clinical decision support tool provides guidelines for managing diabetes in outpatient visits.",
+    "resource_type": "Library",
+    "id": 586
+  },
+  {
+    "statement": "A clinical decision support tool provides updated antibiotic prescribing guidelines for managing urinary tract infections.",
+    "resource_type": "Library",
+    "id": 587
+  },
+  {
+    "statement": "A clinical decision support tool provides guidelines for managing sepsis in adult patients within the hospital.",
+    "resource_type": "Library",
+    "id": 588
+  },
+  {
+    "statement": "The hospital implemented a standardized protocol for managing sepsis throughout the intensive care unit.",
+    "resource_type": "Library",
+    "id": 589
+  },
+  {
+    "statement": "A clinical decision support tool provides guidelines for managing sepsis in adult patients within the hospital setting.",
+    "resource_type": "Library",
+    "id": 590
+  },
+  {
+    "statement": "A clinical decision support tool guides antibiotic selection for urinary tract infections based on local resistance patterns.",
+    "resource_type": "Library",
+    "id": 591
+  },
+  {
+    "statement": "A clinical guideline outlining step-by-step instructions for managing diabetic ketoacidosis in hospitalized adults.",
+    "resource_type": "Library",
+    "id": 592
+  },
+  {
+    "statement": "A clinical guideline outlines step-by-step protocols for managing diabetic foot infections in outpatient settings.",
+    "resource_type": "Library",
+    "id": 593
+  },
+  {
+    "statement": "Clinical decision support recommends adjusting insulin dosage based on the patient's recent blood glucose readings.",
+    "resource_type": "GuidanceResponse",
+    "id": 594
+  },
+  {
+    "statement": "Clinical decision support recommends starting low-dose aspirin for a patient with recent transient ischemic attack symptoms.",
+    "resource_type": "GuidanceResponse",
+    "id": 595
+  },
+  {
+    "statement": "Decision support recommends starting low-dose aspirin for a diabetic patient with increased cardiovascular risk.",
+    "resource_type": "GuidanceResponse",
+    "id": 596
+  },
+  {
+    "statement": "Clinical decision support recommends initiating low-dose aspirin therapy for a patient with newly diagnosed atrial fibrillation.",
+    "resource_type": "GuidanceResponse",
+    "id": 597
+  },
+  {
+    "statement": "Decision support recommends adjusting insulin dosage based on recent blood glucose trends and meal patterns.",
+    "resource_type": "GuidanceResponse",
+    "id": 598
+  },
+  {
+    "statement": "Clinical decision support recommends starting low-dose aspirin for a patient with recent transient ischemic attack to reduce stroke risk.",
+    "resource_type": "GuidanceResponse",
+    "id": 599
+  },
+  {
+    "statement": "Decision support suggests initiating low-dose aspirin therapy for a 55-year-old patient with newly diagnosed hypertension.",
+    "resource_type": "GuidanceResponse",
+    "id": 600
+  },
+  {
+    "statement": "Clinical decision support recommends starting low-dose aspirin for a patient with newly diagnosed atrial fibrillation.",
+    "resource_type": "GuidanceResponse",
+    "id": 601
+  },
+  {
+    "statement": "Clinical decision support recommends initiating low-dose aspirin for a 65-year-old patient with elevated cardiovascular risk.",
+    "resource_type": "GuidanceResponse",
+    "id": 602
+  },
+  {
+    "statement": "Clinical decision support recommends starting low-dose aspirin for a patient with recent transient ischemic attack.",
+    "resource_type": "GuidanceResponse",
+    "id": 603
+  },
+  {
+    "statement": "Clinical decision support recommends initiating low-dose aspirin therapy for a diabetic patient with high cardiovascular risk.",
+    "resource_type": "GuidanceResponse",
+    "id": 604
+  },
+  {
+    "statement": "A diabetic patient\u2019s likelihood of developing foot ulcers within the next year is evaluated based on current complications and lifestyle factors.",
+    "resource_type": "RiskAssessment",
+    "id": 605
+  },
+  {
+    "statement": "A diabetic patient\u2019s likelihood of developing foot ulcers was evaluated based on neuropathy and circulation status.",
+    "resource_type": "RiskAssessment",
+    "id": 606
+  },
+  {
+    "statement": "A diabetic patient\u2019s likelihood of developing foot ulcers was evaluated based on neuropathy and poor glycemic control.",
+    "resource_type": "RiskAssessment",
+    "id": 607
+  },
+  {
+    "statement": "A diabetic patient\u2019s likelihood of developing foot ulcers within the next year is evaluated based on current health factors.",
+    "resource_type": "RiskAssessment",
+    "id": 608
+  },
+  {
+    "statement": "A patient with a family history of diabetes is evaluated for their likelihood of developing type 2 diabetes within the next five years.",
+    "resource_type": "RiskAssessment",
+    "id": 609
+  },
+  {
+    "statement": "A diabetic patient\u2019s likelihood of developing foot ulcers is evaluated based on neuropathy and blood sugar control.",
+    "resource_type": "RiskAssessment",
+    "id": 610
+  },
+  {
+    "statement": "A doctor evaluates a diabetic patient's risk of developing cardiovascular complications over the next five years.",
+    "resource_type": "RiskAssessment",
+    "id": 611
+  },
+  {
+    "statement": "Assessment indicates a high likelihood of stroke within the next year based on patient's age, blood pressure, and smoking history.",
+    "resource_type": "RiskAssessment",
+    "id": 612
+  },
+  {
+    "statement": "A diabetic patient\u2019s risk of developing foot ulcers was evaluated based on neuropathy and poor circulation factors.",
+    "resource_type": "RiskAssessment",
+    "id": 613
+  },
+  {
+    "statement": "A patient with diabetes has a high risk of developing diabetic foot ulcers based on recent clinical evaluations.",
+    "resource_type": "RiskAssessment",
+    "id": 614
+  },
+  {
+    "statement": "A diabetic patient has a 25% estimated risk of developing foot ulcers within the next year based on current clinical factors.",
+    "resource_type": "RiskAssessment",
+    "id": 615
+  },
+  {
+    "statement": "A potential drug interaction was identified between the patient's prescribed warfarin and newly added antibiotic.",
+    "resource_type": "DetectedIssue",
+    "id": 616
+  },
+  {
+    "statement": "A potential allergic reaction to penicillin was identified before administering antibiotics to the patient.",
+    "resource_type": "DetectedIssue",
+    "id": 617
+  },
+  {
+    "statement": "A potential allergy conflict was identified between prescribed penicillin and the patient's documented shellfish allergy.",
+    "resource_type": "DetectedIssue",
+    "id": 618
+  },
+  {
+    "statement": "A potential drug interaction was identified between the patient\u2019s prescribed warfarin and newly added antibiotic therapy.",
+    "resource_type": "DetectedIssue",
+    "id": 619
+  },
+  {
+    "statement": "A potential allergic reaction to prescribed penicillin was identified before administering the first dose.",
+    "resource_type": "DetectedIssue",
+    "id": 620
+  },
+  {
+    "statement": "A noted allergy to penicillin poses a risk for adverse reactions if prescribed during current treatment.",
+    "resource_type": "DetectedIssue",
+    "id": 621
+  },
+  {
+    "statement": "A potential allergic reaction was identified when prescribing penicillin to a patient with a documented sulfa allergy.",
+    "resource_type": "DetectedIssue",
+    "id": 622
+  },
+  {
+    "statement": "A potential allergic reaction was identified after prescribing penicillin to a patient with a documented allergy to it.",
+    "resource_type": "DetectedIssue",
+    "id": 623
+  },
+  {
+    "statement": "A recent allergy to penicillin was identified, posing a risk for prescribing related antibiotics during treatment.",
+    "resource_type": "DetectedIssue",
+    "id": 624
+  },
+  {
+    "statement": "A potential drug interaction was identified between prescribed warfarin and newly added antibiotics.",
+    "resource_type": "DetectedIssue",
+    "id": 625
+  },
+  {
+    "statement": "A potential drug interaction was identified between the patient\u2019s prescribed warfarin and newly added antibiotic therapy.",
+    "resource_type": "DetectedIssue",
+    "id": 626
+  },
+  {
+    "statement": "A clinician assessed a patient\u2019s symptoms and test results to determine the likely diagnosis of community-acquired pneumonia.",
+    "resource_type": "ClinicalImpression",
+    "id": 627
+  },
+  {
+    "statement": "The clinician assessed a 45-year-old female\u2019s symptoms and test results to determine possible causes of her persistent headaches.",
+    "resource_type": "ClinicalImpression",
+    "id": 628
+  },
+  {
+    "statement": "A physician evaluated a 45-year-old with persistent cough and concluded a likely diagnosis of chronic bronchitis.",
+    "resource_type": "ClinicalImpression",
+    "id": 629
+  },
+  {
+    "statement": "A physician evaluates a patient\u2019s symptoms and test results to determine the likely cause of persistent abdominal pain.",
+    "resource_type": "ClinicalImpression",
+    "id": 630
+  },
+  {
+    "statement": "After assessment, the clinician determines the likely cause of the patient\u2019s persistent cough is chronic bronchitis.",
+    "resource_type": "ClinicalImpression",
+    "id": 631
+  },
+  {
+    "statement": "Assessment summary indicates probable community-acquired pneumonia based on symptoms, physical exam, and chest X-ray findings.",
+    "resource_type": "ClinicalImpression",
+    "id": 632
+  },
+  {
+    "statement": "After evaluation, the clinician concluded the patient's persistent cough is likely due to seasonal allergies without signs of infection.",
+    "resource_type": "ClinicalImpression",
+    "id": 633
+  },
+  {
+    "statement": "A clinician assessed a patient\u2019s symptoms and history to determine the likely cause of persistent abdominal pain.",
+    "resource_type": "ClinicalImpression",
+    "id": 634
+  },
+  {
+    "statement": "A clinician evaluates a patient\u2019s symptoms and exam findings to determine the likely cause of persistent abdominal pain.",
+    "resource_type": "ClinicalImpression",
+    "id": 635
+  },
+  {
+    "statement": "Assessment concludes the patient likely has community-acquired pneumonia based on symptoms, exam findings, and chest X-ray results.",
+    "resource_type": "ClinicalImpression",
+    "id": 636
+  },
+  {
+    "statement": "A clinician assessed a patient\u2019s symptoms and test results to determine the likely cause of persistent abdominal pain.",
+    "resource_type": "ClinicalImpression",
+    "id": 637
+  },
+  {
+    "statement": "The patient reports a mother diagnosed with type 2 diabetes in her 50s, influencing their risk assessment and care plan.",
+    "resource_type": "FamilyMemberHistory",
+    "id": 638
+  },
+  {
+    "statement": "The patient's mother was diagnosed with type 2 diabetes in her 50s, influencing the patient's risk assessment and screening plan.",
+    "resource_type": "FamilyMemberHistory",
+    "id": 639
+  },
+  {
+    "statement": "The patient's mother was diagnosed with type 2 diabetes in her early 50s, indicating a potential hereditary risk.",
+    "resource_type": "FamilyMemberHistory",
+    "id": 640
+  },
+  {
+    "statement": "The patient\u2019s mother was diagnosed with type 2 diabetes in her early 50s, indicating a potential hereditary risk.",
+    "resource_type": "FamilyMemberHistory",
+    "id": 641
+  },
+  {
+    "statement": "The patient\u2019s mother was diagnosed with type 2 diabetes in her 50s, influencing the patient\u2019s risk assessment.",
+    "resource_type": "FamilyMemberHistory",
+    "id": 642
+  },
+  {
+    "statement": "The patient\u2019s mother was diagnosed with type 2 diabetes in her early 50s, indicating a potential genetic risk.",
+    "resource_type": "FamilyMemberHistory",
+    "id": 643
+  },
+  {
+    "statement": "The patient\u2019s mother was diagnosed with type 2 diabetes in her 50s, influencing the patient's risk assessment.",
+    "resource_type": "FamilyMemberHistory",
+    "id": 644
+  },
+  {
+    "statement": "The patient\u2019s mother had a history of type 2 diabetes diagnosed in her early 40s.",
+    "resource_type": "FamilyMemberHistory",
+    "id": 645
+  },
+  {
+    "statement": "The patient\u2019s mother was diagnosed with type 2 diabetes in her 50s, influencing the patient's preventive care plan.",
+    "resource_type": "FamilyMemberHistory",
+    "id": 646
+  },
+  {
+    "statement": "The patient\u2019s mother had a history of type 2 diabetes diagnosed in her early 50s.",
+    "resource_type": "FamilyMemberHistory",
+    "id": 647
+  },
+  {
+    "statement": "Patient reports that their mother was diagnosed with type 2 diabetes in her early 50s.",
+    "resource_type": "FamilyMemberHistory",
+    "id": 648
+  },
+  {
+    "statement": "A group of diabetic patients scheduled for weekly education sessions on insulin management and diet control.",
+    "resource_type": "Group",
+    "id": 649
+  },
+  {
+    "statement": "A group of diabetic patients scheduled for a shared educational program on insulin management next week.",
+    "resource_type": "Group",
+    "id": 650
+  },
+  {
+    "statement": "A group of diabetic patients scheduled for a shared educational session on insulin management next week.",
+    "resource_type": "Group",
+    "id": 651
+  },
+  {
+    "statement": "A group of diabetic patients receiving a new insulin regimen is scheduled for follow-up appointments next month.",
+    "resource_type": "Group",
+    "id": 652
+  },
+  {
+    "statement": "A care team is coordinating treatment plans for a group of diabetic patients attending the same clinic session.",
+    "resource_type": "Group",
+    "id": 653
+  },
+  {
+    "statement": "A care team tracks a diabetes support group consisting of 15 patients attending weekly education sessions.",
+    "resource_type": "Group",
+    "id": 654
+  },
+  {
+    "statement": "A care team created a list of patients with diabetes requiring quarterly foot exams and HbA1c monitoring.",
+    "resource_type": "Group",
+    "id": 655
+  },
+  {
+    "statement": "A care team coordinates treatment plans for a group of diabetes patients enrolled in a community health program.",
+    "resource_type": "Group",
+    "id": 656
+  },
+  {
+    "statement": "A group of diabetic patients scheduled for monthly foot exams at the primary care clinic next week.",
+    "resource_type": "Group",
+    "id": 657
+  },
+  {
+    "statement": "A community vaccination drive organized for elderly patients with chronic conditions at the local health clinic.",
+    "resource_type": "Group",
+    "id": 658
+  },
+  {
+    "statement": "A group of diabetic patients scheduled for a community education session on blood sugar management next week.",
+    "resource_type": "Group",
+    "id": 659
+  },
+  {
+    "statement": "A caregiver named Sarah Johnson is authorized to access and manage medical information for her elderly mother.",
+    "resource_type": "Person",
+    "id": 660
+  },
+  {
+    "statement": "A designated emergency contact, Sarah Lee, is recorded to support the patient during hospital admissions.",
+    "resource_type": "Person",
+    "id": 661
+  },
+  {
+    "statement": "A caregiver named Maria Gonzalez provides home support to an elderly patient with limited mobility.",
+    "resource_type": "Person",
+    "id": 662
+  },
+  {
+    "statement": "A healthcare proxy was designated to make medical decisions for an incapacitated elderly patient during hospitalization.",
+    "resource_type": "Person",
+    "id": 663
+  },
+  {
+    "statement": "A caregiver named Maria Lopez assists multiple patients with medication management in the outpatient clinic.",
+    "resource_type": "Person",
+    "id": 664
+  },
+  {
+    "statement": "A caregiver named Sarah Thompson is authorized to access and manage medical records on behalf of her elderly father.",
+    "resource_type": "Person",
+    "id": 665
+  },
+  {
+    "statement": "A family member authorized to make healthcare decisions was registered as the emergency contact for a patient.",
+    "resource_type": "Person",
+    "id": 666
+  },
+  {
+    "statement": "A healthcare proxy was designated to make medical decisions for the elderly patient during hospitalization.",
+    "resource_type": "Person",
+    "id": 667
+  },
+  {
+    "statement": "A caregiver named Emily Davis is authorized to access and update medical information for her elderly parent.",
+    "resource_type": "Person",
+    "id": 668
+  },
+  {
+    "statement": "A family member authorized to make medical decisions accompanies the patient during the hospital visit.",
+    "resource_type": "Person",
+    "id": 669
+  },
+  {
+    "statement": "A healthcare proxy was designated to make medical decisions for an incapacitated elderly patient.",
+    "resource_type": "Person",
+    "id": 670
+  },
+  {
+    "statement": "The patient\u2019s daughter serves as the primary contact and assists with medical decisions during hospital stays.",
+    "resource_type": "RelatedPerson",
+    "id": 671
+  },
+  {
+    "statement": "The patient's daughter is listed as the emergency contact and assists with medical decision-making during hospitalization.",
+    "resource_type": "RelatedPerson",
+    "id": 672
+  },
+  {
+    "statement": "The patient\u2019s daughter is listed as the emergency contact and authorized to discuss medical decisions on their behalf.",
+    "resource_type": "RelatedPerson",
+    "id": 673
+  },
+  {
+    "statement": "The patient's daughter is listed as the primary contact for medical decisions during hospital stays.",
+    "resource_type": "RelatedPerson",
+    "id": 674
+  },
+  {
+    "statement": "The patient\u2019s daughter regularly assists with medication management and communicates health updates to the care team.",
+    "resource_type": "RelatedPerson",
+    "id": 675
+  },
+  {
+    "statement": "The patient\u2019s sister acts as the primary contact and assists with medical decisions during hospital stays.",
+    "resource_type": "RelatedPerson",
+    "id": 676
+  },
+  {
+    "statement": "The patient\u2019s daughter is listed as the primary emergency contact and assists with medication management at home.",
+    "resource_type": "RelatedPerson",
+    "id": 677
+  },
+  {
+    "statement": "The patient's daughter is listed as the emergency contact and assists with medication management at home.",
+    "resource_type": "RelatedPerson",
+    "id": 678
+  },
+  {
+    "statement": "The patient\u2019s daughter serves as the primary contact and assists with medical decisions during hospital stays.",
+    "resource_type": "RelatedPerson",
+    "id": 679
+  },
+  {
+    "statement": "The patient\u2019s daughter contacted the clinic to provide medical history during the initial consultation.",
+    "resource_type": "RelatedPerson",
+    "id": 680
+  },
+  {
+    "statement": "The patient\u2019s daughter provides daily care and assists with medication management at home.",
+    "resource_type": "RelatedPerson",
+    "id": 681
+  },
+  {
+    "statement": "The clinic's system is configured to securely send lab results to the regional health information exchange.",
+    "resource_type": "Endpoint",
+    "id": 682
+  },
+  {
+    "statement": "The clinic's secure server endpoint enables real-time sharing of patient lab results with external specialists.",
+    "resource_type": "Endpoint",
+    "id": 683
+  },
+  {
+    "statement": "The clinic\u2019s lab system endpoint securely receives and sends test orders and results in real-time during patient visits.",
+    "resource_type": "Endpoint",
+    "id": 684
+  },
+  {
+    "statement": "The clinic\u2019s lab system endpoint receives and sends test orders and results securely for timely patient diagnosis.",
+    "resource_type": "Endpoint",
+    "id": 685
+  },
+  {
+    "statement": "The clinic\u2019s lab results system is accessible via a secure web address for real-time data exchange with hospital records.",
+    "resource_type": "Endpoint",
+    "id": 686
+  },
+  {
+    "statement": "The clinic\u2019s lab system is set up to receive electronic test orders and send back results securely.",
+    "resource_type": "Endpoint",
+    "id": 687
+  },
+  {
+    "statement": "The clinic\u2019s lab system is set up to securely receive and send patient test results electronically.",
+    "resource_type": "Endpoint",
+    "id": 688
+  },
+  {
+    "statement": "The clinic\u2019s system securely connects to the regional lab for real-time test result exchanges during patient visits.",
+    "resource_type": "Endpoint",
+    "id": 689
+  },
+  {
+    "statement": "The hospital\u2019s lab system is set up to securely receive and send COVID-19 test results electronically.",
+    "resource_type": "Endpoint",
+    "id": 690
+  },
+  {
+    "statement": "The clinic\u2019s system connects to a secure server to exchange patient lab results electronically in real time.",
+    "resource_type": "Endpoint",
+    "id": 691
+  },
+  {
+    "statement": "The clinic\u2019s telehealth system connects securely to external labs for real-time access to patient test results.",
+    "resource_type": "Endpoint",
+    "id": 692
+  },
+  {
+    "statement": "The clinic offers same-day flu vaccinations and wellness screenings for adults aged 18 and older.",
+    "resource_type": "HealthcareService",
+    "id": 693
+  },
+  {
+    "statement": "The clinic offers same-day COVID-19 testing and vaccination services for all community members.",
+    "resource_type": "HealthcareService",
+    "id": 694
+  },
+  {
+    "statement": "The clinic offers outpatient physical therapy sessions for post-stroke rehabilitation and mobility improvement.",
+    "resource_type": "HealthcareService",
+    "id": 695
+  },
+  {
+    "statement": "The clinic offers outpatient diabetes education and insulin management sessions for newly diagnosed patients.",
+    "resource_type": "HealthcareService",
+    "id": 696
+  },
+  {
+    "statement": "The clinic offers outpatient physical therapy sessions for post-surgical rehabilitation three times a week.",
+    "resource_type": "HealthcareService",
+    "id": 697
+  },
+  {
+    "statement": "The clinic offers same-day flu vaccination and respiratory illness consultations for adults and children.",
+    "resource_type": "HealthcareService",
+    "id": 698
+  },
+  {
+    "statement": "The clinic offers same-day diabetes education and insulin management consultations for newly diagnosed patients.",
+    "resource_type": "HealthcareService",
+    "id": 699
+  },
+  {
+    "statement": "The clinic offers weekly diabetes education and nutrition counseling sessions to support patient self-management.",
+    "resource_type": "HealthcareService",
+    "id": 700
+  },
+  {
+    "statement": "The clinic offers outpatient physical therapy sessions for post-stroke rehabilitation five days a week.",
+    "resource_type": "HealthcareService",
+    "id": 701
+  },
+  {
+    "statement": "The clinic offers same-day diabetes education and insulin management services for newly diagnosed patients.",
+    "resource_type": "HealthcareService",
+    "id": 702
+  },
+  {
+    "statement": "The clinic offers outpatient cardiac rehabilitation sessions for patients recovering from myocardial infarction.",
+    "resource_type": "HealthcareService",
+    "id": 703
+  },
+  {
+    "statement": "The patient\u2019s insurance covers primary care visits, specialist consultations, and emergency services with a $20 co-payment per visit.",
+    "resource_type": "InsurancePlan",
+    "id": 704
+  },
+  {
+    "statement": "The patient\u2019s health insurance covers primary care visits, specialist consultations, and emergency services with specified co-pays and deductibles.",
+    "resource_type": "InsurancePlan",
+    "id": 705
+  },
+  {
+    "statement": "The patient's employer-sponsored insurance plan covers primary care visits and urgent care services with a $20 co-pay per visit.",
+    "resource_type": "InsurancePlan",
+    "id": 706
+  },
+  {
+    "statement": "The patient\u2019s insurance covers primary care visits and specialist referrals with a $20 copayment per appointment.",
+    "resource_type": "InsurancePlan",
+    "id": 707
+  },
+  {
+    "statement": "The employee\u2019s health insurance covers primary care visits and specialist referrals with a $20 co-pay per appointment.",
+    "resource_type": "InsurancePlan",
+    "id": 708
+  },
+  {
+    "statement": "The patient\u2019s insurance coverage includes a comprehensive plan with primary care and specialist visit benefits.",
+    "resource_type": "InsurancePlan",
+    "id": 709
+  },
+  {
+    "statement": "The patient\u2019s employer-sponsored coverage includes dental and vision benefits with a $500 annual deductible.",
+    "resource_type": "InsurancePlan",
+    "id": 710
+  },
+  {
+    "statement": "The patient's insurance plan covers primary care visits, specialist referrals, and prescription medications with a $20 co-pay per visit.",
+    "resource_type": "InsurancePlan",
+    "id": 711
+  },
+  {
+    "statement": "The patient\u2019s employer-sponsored insurance covers primary care visits and specialist consultations with a $20 copayment per visit.",
+    "resource_type": "InsurancePlan",
+    "id": 712
+  },
+  {
+    "statement": "The patient\u2019s insurance covers primary care visits, emergency services, and prescription medications under a managed care plan.",
+    "resource_type": "InsurancePlan",
+    "id": 713
+  },
+  {
+    "statement": "The patient\u2019s insurance plan covers primary care visits and specialist consultations with a $20 copay per appointment.",
+    "resource_type": "InsurancePlan",
+    "id": 714
+  },
+  {
+    "statement": "Detailed composition and purity profile of an intravenous saline solution used for patient hydration therapy.",
+    "resource_type": "SubstanceSpecification",
+    "id": 715
+  },
+  {
+    "statement": "The detailed chemical structure and purity standards of a contrast agent used for MRI imaging are documented for quality control.",
+    "resource_type": "SubstanceSpecification",
+    "id": 716
+  },
+  {
+    "statement": "A detailed profile describes the chemical composition and properties of a new intravenous antibiotic formulation.",
+    "resource_type": "SubstanceSpecification",
+    "id": 717
+  },
+  {
+    "statement": "The chemical composition and purity details of a new intravenous antibiotic batch were documented for pharmacy review.",
+    "resource_type": "SubstanceSpecification",
+    "id": 718
+  },
+  {
+    "statement": "The detailed composition and properties of a new intravenous antibiotic formulation are documented for clinical use and safety evaluation.",
+    "resource_type": "SubstanceSpecification",
+    "id": 719
+  },
+  {
+    "statement": "The detailed chemical composition and physical properties of a new intravenous antibiotic were documented for hospital pharmacy reference.",
+    "resource_type": "SubstanceSpecification",
+    "id": 720
+  },
+  {
+    "statement": "The laboratory documented detailed chemical properties and purity levels of a new intravenous antibiotic formulation.",
+    "resource_type": "SubstanceSpecification",
+    "id": 721
+  },
+  {
+    "statement": "Detailed chemical and physical properties of a new intravenous contrast agent are documented for safe imaging use.",
+    "resource_type": "SubstanceSpecification",
+    "id": 722
+  },
+  {
+    "statement": "The detailed composition and properties of a contrast agent used for enhanced imaging in a renal function test are documented.",
+    "resource_type": "SubstanceSpecification",
+    "id": 723
+  },
+  {
+    "statement": "The hospital pharmacy needs detailed ingredient information to verify the purity of a compounded intravenous solution.",
+    "resource_type": "SubstanceSpecification",
+    "id": 724
+  },
+  {
+    "statement": "The laboratory documented detailed chemical properties and purity levels of a new intravenous antibiotic formulation.",
+    "resource_type": "SubstanceSpecification",
+    "id": 725
+  },
+  {
+    "statement": "Genetic testing identified a BRCA1 gene mutation in the patient to assess breast cancer risk.",
+    "resource_type": "MolecularSequence",
+    "id": 726
+  },
+  {
+    "statement": "Genetic testing identified a BRCA1 gene mutation in a breast cancer patient to guide targeted therapy decisions.",
+    "resource_type": "MolecularSequence",
+    "id": 727
+  },
+  {
+    "statement": "Genetic testing identified a BRCA1 gene mutation in a breast cancer patient to guide targeted therapy decisions.",
+    "resource_type": "MolecularSequence",
+    "id": 728
+  },
+  {
+    "statement": "Genetic testing identified a BRCA1 mutation in the patient, informing breast cancer risk and treatment options.",
+    "resource_type": "MolecularSequence",
+    "id": 729
+  },
+  {
+    "statement": "Genetic testing revealed a BRCA1 gene mutation linked to increased breast cancer risk in a 45-year-old woman.",
+    "resource_type": "MolecularSequence",
+    "id": 730
+  },
+  {
+    "statement": "Genetic testing identified a BRCA1 gene mutation linked to increased breast cancer risk in the patient\u2019s DNA sample.",
+    "resource_type": "MolecularSequence",
+    "id": 731
+  },
+  {
+    "statement": "Genetic testing identified a BRCA1 gene mutation in a breast cancer patient to guide targeted therapy decisions.",
+    "resource_type": "MolecularSequence",
+    "id": 732
+  },
+  {
+    "statement": "Genetic testing identified a BRCA1 gene mutation in a breast cancer patient to guide personalized treatment options.",
+    "resource_type": "MolecularSequence",
+    "id": 733
+  },
+  {
+    "statement": "Genetic testing identified a BRCA1 gene mutation in a breast cancer patient to guide personalized treatment decisions.",
+    "resource_type": "MolecularSequence",
+    "id": 734
+  },
+  {
+    "statement": "Genetic testing identified a BRCA1 gene mutation in a patient with a family history of breast cancer.",
+    "resource_type": "MolecularSequence",
+    "id": 735
+  },
+  {
+    "statement": "Genetic testing identified a BRCA1 gene mutation in the patient to assess hereditary breast cancer risk.",
+    "resource_type": "MolecularSequence",
+    "id": 736
+  },
+  {
+    "statement": "A nurse reviewed a child\u2019s vaccination records to confirm if all recommended doses for measles were completed on schedule.",
+    "resource_type": "ImmunizationEvaluation",
+    "id": 737
+  },
+  {
+    "statement": "A child's vaccination record was reviewed to confirm immunity status after receiving the measles, mumps, and rubella vaccine.",
+    "resource_type": "ImmunizationEvaluation",
+    "id": 738
+  },
+  {
+    "statement": "A child's immunization records were reviewed to confirm if their vaccine schedule is complete and up to date.",
+    "resource_type": "ImmunizationEvaluation",
+    "id": 739
+  },
+  {
+    "statement": "Evaluation confirms that a child's vaccine doses meet recommended schedules for measles and mumps immunity.",
+    "resource_type": "ImmunizationEvaluation",
+    "id": 740
+  },
+  {
+    "statement": "A child's immunization records were reviewed to confirm protection against measles before school enrollment.",
+    "resource_type": "ImmunizationEvaluation",
+    "id": 741
+  },
+  {
+    "statement": "A pediatrician reviewed a child's vaccination records to confirm if measles immunization requirements are met for school enrollment.",
+    "resource_type": "ImmunizationEvaluation",
+    "id": 742
+  },
+  {
+    "statement": "Assessment confirms that a child's vaccine history meets the recommended schedule for measles, mumps, and rubella immunization.",
+    "resource_type": "ImmunizationEvaluation",
+    "id": 743
+  },
+  {
+    "statement": "A nurse reviewed a child\u2019s vaccine history to confirm if measles immunization meets current age and dosing guidelines.",
+    "resource_type": "ImmunizationEvaluation",
+    "id": 744
+  },
+  {
+    "statement": "A nurse reviewed a child\u2019s immunization records to confirm measles vaccine series completion before school enrollment.",
+    "resource_type": "ImmunizationEvaluation",
+    "id": 745
+  },
+  {
+    "statement": "A nurse reviewed a child\u2019s immunization records to confirm if the measles vaccine series was complete and up to date.",
+    "resource_type": "ImmunizationEvaluation",
+    "id": 746
+  },
+  {
+    "statement": "A nurse reviewed a child\u2019s vaccination history to determine if additional doses of the MMR vaccine are needed.",
+    "resource_type": "ImmunizationEvaluation",
+    "id": 747
+  },
+  {
+    "statement": "A nurse reviews updated vaccine schedules to advise a 65-year-old patient on receiving the seasonal flu and shingles shots.",
+    "resource_type": "ImmunizationRecommendation",
+    "id": 748
+  },
+  {
+    "statement": "A child due for their second measles vaccine dose receives a personalized schedule based on age and vaccination history.",
+    "resource_type": "ImmunizationRecommendation",
+    "id": 749
+  },
+  {
+    "statement": "A 65-year-old adult is advised to receive the annual influenza vaccine before the upcoming flu season.",
+    "resource_type": "ImmunizationRecommendation",
+    "id": 750
+  },
+  {
+    "statement": "A provider recommends the seasonal flu vaccine for a 65-year-old patient with chronic heart disease.",
+    "resource_type": "ImmunizationRecommendation",
+    "id": 751
+  },
+  {
+    "statement": "A pediatrician suggests the next dose of the flu vaccine for a 2-year-old based on their immunization history.",
+    "resource_type": "ImmunizationRecommendation",
+    "id": 752
+  },
+  {
+    "statement": "A child is due for their second dose of the measles-mumps-rubella vaccine based on age and immunization history.",
+    "resource_type": "ImmunizationRecommendation",
+    "id": 753
+  },
+  {
+    "statement": "A child\u2019s immunization schedule suggests the next dose of the measles-mumps-rubella vaccine is due in two months.",
+    "resource_type": "ImmunizationRecommendation",
+    "id": 754
+  },
+  {
+    "statement": "A pediatrician suggests the next scheduled dose of the MMR vaccine for a 2-year-old during the wellness visit.",
+    "resource_type": "ImmunizationRecommendation",
+    "id": 755
+  },
+  {
+    "statement": "The doctor reviewed immunization history and recommended a flu vaccine booster before the upcoming winter season.",
+    "resource_type": "ImmunizationRecommendation",
+    "id": 756
+  },
+  {
+    "statement": "The pediatrician advised a catch-up vaccine schedule for a child missing their second measles-mumps-rubella dose.",
+    "resource_type": "ImmunizationRecommendation",
+    "id": 757
+  },
+  {
+    "statement": "A healthcare provider recommends a flu vaccine booster for a 65-year-old patient with a history of chronic lung disease.",
+    "resource_type": "ImmunizationRecommendation",
+    "id": 758
+  },
+  {
+    "statement": "A patient experienced a severe allergic reaction after receiving a penicillin antibiotic during hospitalization.",
+    "resource_type": "AdverseEvent",
+    "id": 759
+  },
+  {
+    "statement": "A patient experienced a severe allergic reaction after receiving the prescribed antibiotic dose.",
+    "resource_type": "AdverseEvent",
+    "id": 760
+  },
+  {
+    "statement": "A patient experienced severe allergic reaction after receiving a penicillin antibiotic during hospitalization.",
+    "resource_type": "AdverseEvent",
+    "id": 761
+  },
+  {
+    "statement": "A patient experienced a severe allergic reaction after receiving the prescribed antibiotic dose.",
+    "resource_type": "AdverseEvent",
+    "id": 762
+  },
+  {
+    "statement": "A patient experienced a severe allergic reaction after receiving a penicillin injection during hospitalization.",
+    "resource_type": "AdverseEvent",
+    "id": 763
+  },
+  {
+    "statement": "A patient developed a severe allergic reaction after receiving a penicillin antibiotic during hospitalization.",
+    "resource_type": "AdverseEvent",
+    "id": 764
+  },
+  {
+    "statement": "A patient developed a severe allergic reaction after receiving a contrast dye during a CT scan.",
+    "resource_type": "AdverseEvent",
+    "id": 765
+  },
+  {
+    "statement": "A patient experienced an allergic reaction with rash and swelling after receiving a penicillin injection.",
+    "resource_type": "AdverseEvent",
+    "id": 766
+  },
+  {
+    "statement": "A patient experienced an allergic reaction after receiving a penicillin injection during hospitalization.",
+    "resource_type": "AdverseEvent",
+    "id": 767
+  },
+  {
+    "statement": "A patient experienced a severe allergic reaction after receiving a penicillin injection during hospitalization.",
+    "resource_type": "AdverseEvent",
+    "id": 768
+  },
+  {
+    "statement": "A patient experienced a severe allergic reaction after receiving a penicillin antibiotic during hospitalization.",
+    "resource_type": "AdverseEvent",
+    "id": 769
+  },
+  {
+    "statement": "A patient has a documented allergy to penicillin requiring alerts during medication prescribing.",
+    "resource_type": "Flag",
+    "id": 770
+  },
+  {
+    "statement": "A patient has a documented allergy to penicillin that must be considered before prescribing antibiotics.",
+    "resource_type": "Flag",
+    "id": 771
+  },
+  {
+    "statement": "A patient with a severe penicillin allergy requires alternative antibiotics during hospital admission.",
+    "resource_type": "Flag",
+    "id": 772
+  },
+  {
+    "statement": "A patient has a documented allergy to penicillin, requiring alternative antibiotics during treatment.",
+    "resource_type": "Flag",
+    "id": 773
+  },
+  {
+    "statement": "Patient has a documented allergy to penicillin requiring special precautions during antibiotic administration.",
+    "resource_type": "Flag",
+    "id": 774
+  },
+  {
+    "statement": "A patient has a documented allergy to penicillin that must be considered before prescribing antibiotics.",
+    "resource_type": "Flag",
+    "id": 775
+  },
+  {
+    "statement": "A patient has a documented allergy to penicillin that must be considered before prescribing antibiotics.",
+    "resource_type": "Flag",
+    "id": 776
+  },
+  {
+    "statement": "A patient with a history of severe allergies requires caution with medication administration during hospital stay.",
+    "resource_type": "Flag",
+    "id": 777
+  },
+  {
+    "statement": "A patient has a documented allergy to penicillin requiring avoidance of all related antibiotics during treatment.",
+    "resource_type": "Flag",
+    "id": 778
+  },
+  {
+    "statement": "A patient has a documented allergy to penicillin, requiring alternative antibiotics for any infection treatment.",
+    "resource_type": "Flag",
+    "id": 779
+  },
+  {
+    "statement": "This patient has a documented allergy to penicillin requiring special precautions during antibiotic administration.",
+    "resource_type": "Flag",
+    "id": 780
+  },
+  {
+    "statement": "A care team compiles a checklist of pending lab tests and imaging studies for a hospitalized patient\u2019s daily review.",
+    "resource_type": "List",
+    "id": 781
+  },
+  {
+    "statement": "A clinician compiled a checklist of recent lab results and imaging studies to review during a patient\u2019s follow-up visit.",
+    "resource_type": "List",
+    "id": 782
+  },
+  {
+    "statement": "A nurse compiled a checklist of completed and pending wound care tasks for the postoperative patient\u2019s daily treatment plan.",
+    "resource_type": "List",
+    "id": 783
+  },
+  {
+    "statement": "A discharge checklist was created to track completed tasks and pending follow-ups before patient release.",
+    "resource_type": "List",
+    "id": 784
+  },
+  {
+    "statement": "A discharge summary includes a checklist of diagnoses, treatments, and follow-up appointments for patient care continuity.",
+    "resource_type": "List",
+    "id": 785
+  },
+  {
+    "statement": "A discharge summary includes a checklist of completed procedures, pending tests, and follow-up appointments for a hospitalized patient.",
+    "resource_type": "List",
+    "id": 786
+  },
+  {
+    "statement": "A discharge summary includes a compiled list of diagnoses, procedures, and follow-up instructions for a hospitalized patient.",
+    "resource_type": "List",
+    "id": 787
+  },
+  {
+    "statement": "A discharge summary includes a checklist of follow-up appointments, medications, and recommended lifestyle changes for recovery.",
+    "resource_type": "List",
+    "id": 788
+  },
+  {
+    "statement": "A discharge summary includes a list of diagnoses, procedures, and follow-up appointments for the patient\u2019s care plan.",
+    "resource_type": "List",
+    "id": 789
+  },
+  {
+    "statement": "The discharge summary includes a checklist of follow-up appointments, medication changes, and pending lab results for the patient.",
+    "resource_type": "List",
+    "id": 790
+  },
+  {
+    "statement": "A nurse compiled a checklist of all pending lab tests and imaging studies for a hospitalized patient.",
+    "resource_type": "List",
+    "id": 791
+  },
+  {
+    "statement": "Two medical records from different hospitals are connected to represent the same individual for coordinated care.",
+    "resource_type": "Linkage",
+    "id": 792
+  },
+  {
+    "statement": "The system connects multiple records to confirm that different IDs all refer to the same patient across care settings.",
+    "resource_type": "Linkage",
+    "id": 793
+  },
+  {
+    "statement": "Two medical records from different clinics were linked to confirm they belong to the same patient for coordinated care.",
+    "resource_type": "Linkage",
+    "id": 794
+  },
+  {
+    "statement": "Multiple medical records from different clinics are connected to confirm they belong to the same individual for coordinated care.",
+    "resource_type": "Linkage",
+    "id": 795
+  },
+  {
+    "statement": "Multiple medical records from different hospitals were connected to confirm the same patient\u2019s identity across systems.",
+    "resource_type": "Linkage",
+    "id": 796
+  },
+  {
+    "statement": "Two medical records from different hospitals are connected to confirm they belong to the same patient for coordinated care.",
+    "resource_type": "Linkage",
+    "id": 797
+  },
+  {
+    "statement": "Two medical records from different clinics are linked to confirm they belong to the same patient after identity verification.",
+    "resource_type": "Linkage",
+    "id": 798
+  },
+  {
+    "statement": "Two medical records from different hospitals are connected to represent the same patient\u2019s health information accurately.",
+    "resource_type": "Linkage",
+    "id": 799
+  },
+  {
+    "statement": "Multiple records from different clinics confirm that Sarah Johnson and Sarah J. Johnson refer to the same individual.",
+    "resource_type": "Linkage",
+    "id": 800
+  },
+  {
+    "statement": "A patient's multiple medical records from different hospitals are connected to ensure a complete health history.",
+    "resource_type": "Linkage",
+    "id": 801
+  },
+  {
+    "statement": "Two medical records from different hospitals are linked to confirm they belong to the same patient for coordinated care.",
+    "resource_type": "Linkage",
+    "id": 802
+  },
+  {
+    "statement": "Access to a patient\u2019s medical record was logged after a nurse reviewed lab results during a night shift.",
+    "resource_type": "AuditEvent",
+    "id": 803
+  },
+  {
+    "statement": "A nurse accessed a patient's electronic record to review medication history before administering the next dose.",
+    "resource_type": "AuditEvent",
+    "id": 804
+  },
+  {
+    "statement": "System logs record that nurse Jane Doe accessed patient records during a medication administration at 3 PM.",
+    "resource_type": "AuditEvent",
+    "id": 805
+  },
+  {
+    "statement": "Access to a patient\u2019s electronic health record was logged during a medication reconciliation in the outpatient clinic.",
+    "resource_type": "AuditEvent",
+    "id": 806
+  },
+  {
+    "statement": "Access to a patient's medical record was logged when a nurse reviewed recent lab results during a hospital stay.",
+    "resource_type": "AuditEvent",
+    "id": 807
+  },
+  {
+    "statement": "Access to a patient\u2019s electronic health record was logged during a medication reconciliation in the outpatient clinic.",
+    "resource_type": "AuditEvent",
+    "id": 808
+  },
+  {
+    "statement": "Access to a patient's electronic health record was logged after a nurse reviewed recent lab results.",
+    "resource_type": "AuditEvent",
+    "id": 809
+  },
+  {
+    "statement": "A nurse accessed a patient\u2019s electronic record to review lab results before administering medication.",
+    "resource_type": "AuditEvent",
+    "id": 810
+  },
+  {
+    "statement": "A nurse accessed a patient's electronic record to review recent lab results during a hospital admission.",
+    "resource_type": "AuditEvent",
+    "id": 811
+  },
+  {
+    "statement": "Access to a patient's medical record was logged when a nurse reviewed their allergy history before administering medication.",
+    "resource_type": "AuditEvent",
+    "id": 812
+  },
+  {
+    "statement": "Access to a patient's electronic health record was logged during a medication reconciliation in the outpatient clinic.",
+    "resource_type": "AuditEvent",
+    "id": 813
+  },
+  {
+    "statement": "The lab result for glucose was verified by the technician before being added to the patient\u2019s medical record.",
+    "resource_type": "Provenance",
+    "id": 814
+  },
+  {
+    "statement": "The lab test results were verified and signed off by Dr. Lee before being added to the patient\u2019s medical record.",
+    "resource_type": "Provenance",
+    "id": 815
+  },
+  {
+    "statement": "The lab report on blood cultures was verified by Dr. Lee before being added to the patient's medical record.",
+    "resource_type": "Provenance",
+    "id": 816
+  },
+  {
+    "statement": "The lab technician recorded details of the blood sample collection and processing for quality tracking.",
+    "resource_type": "Provenance",
+    "id": 817
+  },
+  {
+    "statement": "The lab technician recorded the source and time of the blood test results entered into the patient's record.",
+    "resource_type": "Provenance",
+    "id": 818
+  },
+  {
+    "statement": "The lab report showing elevated glucose was created by the pathology department on March 10th, 2024.",
+    "resource_type": "Provenance",
+    "id": 819
+  },
+  {
+    "statement": "The lab report was created by Dr. Lee after reviewing the blood test results on March 5th.",
+    "resource_type": "Provenance",
+    "id": 820
+  },
+  {
+    "statement": "The lab test results were verified by the attending physician before being added to the patient's medical record.",
+    "resource_type": "Provenance",
+    "id": 821
+  },
+  {
+    "statement": "The lab results were verified and signed off by Dr. Lee before being added to the patient's medical record.",
+    "resource_type": "Provenance",
+    "id": 822
+  },
+  {
+    "statement": "The lab technician recorded the source and timing details for the blood test results sent to the clinician.",
+    "resource_type": "Provenance",
+    "id": 823
+  },
+  {
+    "statement": "The lab report was verified by the attending physician before being added to the patient's medical record.",
+    "resource_type": "Provenance",
+    "id": 824
+  },
+  {
+    "statement": "The patient authorized sharing their medical records with a specialist for coordinated diabetes care management.",
+    "resource_type": "Consent",
+    "id": 825
+  },
+  {
+    "statement": "A patient authorized their healthcare provider to share medical records with a specialist for coordinated diabetes care.",
+    "resource_type": "Consent",
+    "id": 826
+  },
+  {
+    "statement": "The patient authorized sharing their medical records with a specialist for ongoing diabetes treatment coordination.",
+    "resource_type": "Consent",
+    "id": 827
+  },
+  {
+    "statement": "A patient authorized sharing their medical records with a specialist for coordinated diabetes care and treatment planning.",
+    "resource_type": "Consent",
+    "id": 828
+  },
+  {
+    "statement": "The patient authorized sharing their medical records with the specialist for ongoing diabetes treatment coordination.",
+    "resource_type": "Consent",
+    "id": 829
+  },
+  {
+    "statement": "The patient authorized sharing their medical records with a specialist for ongoing diabetes care coordination.",
+    "resource_type": "Consent",
+    "id": 830
+  },
+  {
+    "statement": "The patient authorized sharing their medical records with a specialist for ongoing diabetes management.",
+    "resource_type": "Consent",
+    "id": 831
+  },
+  {
+    "statement": "A patient authorized sharing their medical records with a specialist for ongoing diabetes treatment coordination.",
+    "resource_type": "Consent",
+    "id": 832
+  },
+  {
+    "statement": "The patient authorized sharing their medical records with a specialist for ongoing diabetes treatment coordination.",
+    "resource_type": "Consent",
+    "id": 833
+  },
+  {
+    "statement": "The patient authorized sharing their medical records with a specialist for ongoing diabetes management.",
+    "resource_type": "Consent",
+    "id": 834
+  },
+  {
+    "statement": "Patient grants permission for their medical records to be shared with a specialist for ongoing diabetes treatment.",
+    "resource_type": "Consent",
+    "id": 835
+  },
+  {
+    "statement": "The nurse sent a secure message to the primary doctor requesting clarification on the patient\u2019s medication allergy.",
+    "resource_type": "Communication",
+    "id": 836
+  },
+  {
+    "statement": "The nurse sent a secure message to the physician requesting clarification on the patient's allergy information.",
+    "resource_type": "Communication",
+    "id": 837
+  },
+  {
+    "statement": "The nurse sent a discharge summary email to the primary care provider after the patient\u2019s hospital stay.",
+    "resource_type": "Communication",
+    "id": 838
+  },
+  {
+    "statement": "The nurse sent a secure message to the physician requesting clarification on the patient\u2019s allergy reaction details.",
+    "resource_type": "Communication",
+    "id": 839
+  },
+  {
+    "statement": "The nurse sent a secure message to the physician requesting clarification on the patient\u2019s recent medication dosage change.",
+    "resource_type": "Communication",
+    "id": 840
+  },
+  {
+    "statement": "The nurse sent a secure message to the primary doctor requesting clarification on the patient\u2019s allergy information.",
+    "resource_type": "Communication",
+    "id": 841
+  },
+  {
+    "statement": "The nurse sent a secure message to the physician requesting clarification on the patient's allergy history.",
+    "resource_type": "Communication",
+    "id": 842
+  },
+  {
+    "statement": "A nurse sent a secure message to the physician requesting clarification on the patient\u2019s allergy information.",
+    "resource_type": "Communication",
+    "id": 843
+  },
+  {
+    "statement": "The nurse updated the primary care physician about the patient\u2019s worsening shortness of breath via secure message.",
+    "resource_type": "Communication",
+    "id": 844
+  },
+  {
+    "statement": "The nurse sent a secure message to the primary doctor requesting clarification on the patient\u2019s medication allergy.",
+    "resource_type": "Communication",
+    "id": 845
+  },
+  {
+    "statement": "The nurse sent a secure message to the physician requesting clarification on the patient\u2019s discharge instructions.",
+    "resource_type": "Communication",
+    "id": 846
+  },
+  {
+    "statement": "A request was sent to the radiology department to urgently notify the patient about their upcoming MRI appointment.",
+    "resource_type": "CommunicationRequest",
+    "id": 847
+  },
+  {
+    "statement": "A doctor requests the radiology team to urgently send chest X-ray results to the cardiology department for review.",
+    "resource_type": "CommunicationRequest",
+    "id": 848
+  },
+  {
+    "statement": "A nurse requests a follow-up phone call to discuss new symptoms reported by the patient after discharge.",
+    "resource_type": "CommunicationRequest",
+    "id": 849
+  },
+  {
+    "statement": "The primary care physician requests a follow-up appointment summary to be sent to the cardiologist for ongoing treatment coordination.",
+    "resource_type": "CommunicationRequest",
+    "id": 850
+  },
+  {
+    "statement": "The primary care physician requests a cardiologist to review a recent ECG and provide consultation notes promptly.",
+    "resource_type": "CommunicationRequest",
+    "id": 851
+  },
+  {
+    "statement": "The primary care physician requests a cardiology consult note to review the patient\u2019s recent echocardiogram findings.",
+    "resource_type": "CommunicationRequest",
+    "id": 852
+  },
+  {
+    "statement": "The primary care doctor requests a discharge summary from the hospital to coordinate ongoing patient care.",
+    "resource_type": "CommunicationRequest",
+    "id": 853
+  },
+  {
+    "statement": "A nurse requests a specialist to review a patient\u2019s recent lab results and provide treatment recommendations.",
+    "resource_type": "CommunicationRequest",
+    "id": 854
+  },
+  {
+    "statement": "The cardiologist requests the primary care provider to share recent echocardiogram results for ongoing heart failure treatment.",
+    "resource_type": "CommunicationRequest",
+    "id": 855
+  },
+  {
+    "statement": "A request was sent to the radiology department to urgently schedule a chest X-ray for suspected pneumonia.",
+    "resource_type": "CommunicationRequest",
+    "id": 856
+  },
+  {
+    "statement": "A nurse requests a care team update regarding a patient\u2019s discharge plan to coordinate follow-up appointments.",
+    "resource_type": "CommunicationRequest",
+    "id": 857
+  },
+  {
+    "statement": "A doctor ordered a home oxygen concentrator for a patient with chronic obstructive pulmonary disease.",
+    "resource_type": "DeviceRequest",
+    "id": 858
+  },
+  {
+    "statement": "An order was placed for a continuous glucose monitor to manage the patient's type 1 diabetes effectively.",
+    "resource_type": "DeviceRequest",
+    "id": 859
+  },
+  {
+    "statement": "The physician ordered a continuous glucose monitor to track blood sugar levels in a diabetic patient.",
+    "resource_type": "DeviceRequest",
+    "id": 860
+  },
+  {
+    "statement": "An order was placed for a continuous glucose monitor to manage the patient's unstable blood sugar levels at home.",
+    "resource_type": "DeviceRequest",
+    "id": 861
+  },
+  {
+    "statement": "The physician ordered a continuous glucose monitor for the diabetic patient to track blood sugar levels at home.",
+    "resource_type": "DeviceRequest",
+    "id": 862
+  },
+  {
+    "statement": "A physician ordered a continuous glucose monitor for a diabetic patient to better manage blood sugar levels at home.",
+    "resource_type": "DeviceRequest",
+    "id": 863
+  },
+  {
+    "statement": "A physician orders a wheelchair for a post-stroke patient to support mobility during rehabilitation.",
+    "resource_type": "DeviceRequest",
+    "id": 864
+  },
+  {
+    "statement": "A physician ordered a continuous glucose monitor for a diabetic patient to track blood sugar levels at home.",
+    "resource_type": "DeviceRequest",
+    "id": 865
+  },
+  {
+    "statement": "A physician orders a continuous glucose monitor for a diabetic patient to track blood sugar levels at home.",
+    "resource_type": "DeviceRequest",
+    "id": 866
+  },
+  {
+    "statement": "A physician ordered a continuous glucose monitor for a diabetic patient to improve blood sugar tracking at home.",
+    "resource_type": "DeviceRequest",
+    "id": 867
+  },
+  {
+    "statement": "A doctor ordered a continuous glucose monitor for a diabetic patient to track blood sugar levels at home.",
+    "resource_type": "DeviceRequest",
+    "id": 868
+  },
+  {
+    "statement": "The patient used a continuous glucose monitor for 72 hours to track blood sugar levels during hospitalization.",
+    "resource_type": "DeviceUseStatement",
+    "id": 869
+  },
+  {
+    "statement": "The patient used a continuous glucose monitor at home for diabetes management over the past two weeks.",
+    "resource_type": "DeviceUseStatement",
+    "id": 870
+  },
+  {
+    "statement": "The patient used a continuous glucose monitor for diabetes management during their hospital stay.",
+    "resource_type": "DeviceUseStatement",
+    "id": 871
+  },
+  {
+    "statement": "The patient has been using a continuous glucose monitor for diabetes management over the past two weeks.",
+    "resource_type": "DeviceUseStatement",
+    "id": 872
+  },
+  {
+    "statement": "The patient has been using a continuous glucose monitor at home for diabetes management since last month.",
+    "resource_type": "DeviceUseStatement",
+    "id": 873
+  },
+  {
+    "statement": "The patient used a continuous glucose monitor for 72 hours to track blood sugar levels at home.",
+    "resource_type": "DeviceUseStatement",
+    "id": 874
+  },
+  {
+    "statement": "The patient has been using a continuous glucose monitor daily to track blood sugar levels over the past month.",
+    "resource_type": "DeviceUseStatement",
+    "id": 875
+  },
+  {
+    "statement": "A diabetic patient has been using an insulin pump continuously for the past three months to manage blood glucose levels.",
+    "resource_type": "DeviceUseStatement",
+    "id": 876
+  },
+  {
+    "statement": "The patient has been using a continuous glucose monitor continuously for diabetes management over the past month.",
+    "resource_type": "DeviceUseStatement",
+    "id": 877
+  },
+  {
+    "statement": "The patient used a continuous glucose monitor for two weeks to track blood sugar levels at home.",
+    "resource_type": "DeviceUseStatement",
+    "id": 878
+  },
+  {
+    "statement": "The patient used a continuous glucose monitor to track blood sugar levels throughout the day.",
+    "resource_type": "DeviceUseStatement",
+    "id": 879
+  },
+  {
+    "statement": "The bedside monitor continuously records the patient\u2019s heart rate and oxygen saturation levels during surgery.",
+    "resource_type": "DeviceMetric",
+    "id": 880
+  },
+  {
+    "statement": "The pulse oximeter displayed continuous oxygen saturation readings during the patient's postoperative monitoring in the ICU.",
+    "resource_type": "DeviceMetric",
+    "id": 881
+  },
+  {
+    "statement": "Continuous glucose monitor records real-time blood sugar levels for a diabetic patient during hospital stay.",
+    "resource_type": "DeviceMetric",
+    "id": 882
+  },
+  {
+    "statement": "A bedside monitor tracks the patient\u2019s heart rate continuously during post-operative recovery.",
+    "resource_type": "DeviceMetric",
+    "id": 883
+  },
+  {
+    "statement": "The bedside monitor displays a continuous heart rate measurement to track the patient\u2019s cardiac status during surgery.",
+    "resource_type": "DeviceMetric",
+    "id": 884
+  },
+  {
+    "statement": "The bedside monitor recorded the patient\u2019s heart rate trending between 80 and 95 beats per minute during recovery.",
+    "resource_type": "DeviceMetric",
+    "id": 885
+  },
+  {
+    "statement": "The bedside monitor tracks the patient\u2019s heart rate and oxygen saturation continuously during surgery.",
+    "resource_type": "DeviceMetric",
+    "id": 886
+  },
+  {
+    "statement": "The pulse oximeter recorded continuous oxygen saturation levels during the patient's post-operative recovery monitoring.",
+    "resource_type": "DeviceMetric",
+    "id": 887
+  },
+  {
+    "statement": "The pulse oximeter reports continuous oxygen saturation levels during the patient\u2019s post-surgery monitoring.",
+    "resource_type": "DeviceMetric",
+    "id": 888
+  },
+  {
+    "statement": "Continuous glucose monitor reports real-time blood sugar levels for diabetic patient during hospital stay.",
+    "resource_type": "DeviceMetric",
+    "id": 889
+  },
+  {
+    "statement": "The heart rate monitor device recorded continuous pulse measurements during the patient's overnight cardiac telemetry.",
+    "resource_type": "DeviceMetric",
+    "id": 890
+  },
+  {
+    "statement": "The laboratory received a sample of purified saline solution used for intravenous fluid administration.",
+    "resource_type": "Substance",
+    "id": 891
+  },
+  {
+    "statement": "A nurse documents the composition and source of a patient's herbal supplement used alongside prescribed treatments.",
+    "resource_type": "Substance",
+    "id": 892
+  },
+  {
+    "statement": "The laboratory identified a contamination substance found in the patient's intravenous fluid during routine quality control.",
+    "resource_type": "Substance",
+    "id": 893
+  },
+  {
+    "statement": "A blood sample contains elevated glucose levels indicating possible diabetes during the routine laboratory analysis.",
+    "resource_type": "Substance",
+    "id": 894
+  },
+  {
+    "statement": "The lab received a sample containing a concentrated opioid extract for toxicology analysis.",
+    "resource_type": "Substance",
+    "id": 895
+  },
+  {
+    "statement": "A lab technician documented a sample of intravenous contrast dye used for the upcoming CT scan.",
+    "resource_type": "Substance",
+    "id": 896
+  },
+  {
+    "statement": "The laboratory analyzed an unknown chemical sample to identify its composition and potential health risks.",
+    "resource_type": "Substance",
+    "id": 897
+  },
+  {
+    "statement": "A blood sample containing elevated glucose levels was collected for diabetes monitoring during the patient\u2019s clinic visit.",
+    "resource_type": "Substance",
+    "id": 898
+  },
+  {
+    "statement": "A laboratory sample identifies a purified saline solution used for intravenous fluid replacement in hospital care.",
+    "resource_type": "Substance",
+    "id": 899
+  },
+  {
+    "statement": "A sample of intravenous saline solution was documented for use during the patient's hydration therapy.",
+    "resource_type": "Substance",
+    "id": 900
+  },
+  {
+    "statement": "A nurse documented the patient\u2019s allergy to penicillin after a mild rash developed during antibiotic treatment.",
+    "resource_type": "Substance",
+    "id": 901
+  },
+  {
+    "statement": "The physician ordered a 5-day course of amoxicillin 500mg three times daily for bacterial sinus infection.",
+    "resource_type": "Medication",
+    "id": 902
+  },
+  {
+    "statement": "The doctor started a 7-day course of amoxicillin to treat the patient\u2019s bacterial sinus infection.",
+    "resource_type": "Medication",
+    "id": 903
+  },
+  {
+    "statement": "The doctor ordered a 7-day course of amoxicillin 500mg three times daily to treat the patient's sinus infection.",
+    "resource_type": "Medication",
+    "id": 904
+  },
+  {
+    "statement": "The doctor ordered a 5-day course of amoxicillin 500mg three times daily to treat the patient\u2019s sinus infection.",
+    "resource_type": "Medication",
+    "id": 905
+  },
+  {
+    "statement": "The doctor ordered a 7-day course of amoxicillin 500mg three times daily to treat the patient's bacterial infection.",
+    "resource_type": "Medication",
+    "id": 906
+  },
+  {
+    "statement": "The doctor ordered a 7-day course of amoxicillin 500mg three times daily to treat the patient's sinus infection.",
+    "resource_type": "Medication",
+    "id": 907
+  },
+  {
+    "statement": "The doctor prescribed a 7-day course of amoxicillin 500mg three times daily for bacterial sinus infection.",
+    "resource_type": "Medication",
+    "id": 908
+  },
+  {
+    "statement": "The doctor ordered a 5-day course of amoxicillin 500mg three times daily for bacterial sinus infection.",
+    "resource_type": "Medication",
+    "id": 909
+  },
+  {
+    "statement": "The doctor prescribed a 5-day course of amoxicillin 500mg three times daily for bacterial sinus infection.",
+    "resource_type": "Medication",
+    "id": 910
+  },
+  {
+    "statement": "The doctor prescribed a 7-day course of amoxicillin 500mg three times daily for bacterial sinus infection.",
+    "resource_type": "Medication",
+    "id": 911
+  },
+  {
+    "statement": "The doctor ordered a 5-day course of amoxicillin 500mg three times daily for the patient's bacterial infection.",
+    "resource_type": "Medication",
+    "id": 912
+  },
+  {
+    "statement": "A newly approved insulin formulation offers improved blood sugar control for patients with type 1 diabetes.",
+    "resource_type": "MedicinalProduct",
+    "id": 913
+  },
+  {
+    "statement": "A newly approved antibiotic formulation designed to treat multi-drug resistant bacterial infections was introduced to the hospital formulary.",
+    "resource_type": "MedicinalProduct",
+    "id": 914
+  },
+  {
+    "statement": "The hospital pharmacy maintains detailed information about the active ingredients and formulations of all approved medications in stock.",
+    "resource_type": "MedicinalProduct",
+    "id": 915
+  },
+  {
+    "statement": "The pharmacist verifies the active ingredients and manufacturer details before dispensing the new antibiotic medication.",
+    "resource_type": "MedicinalProduct",
+    "id": 916
+  },
+  {
+    "statement": "A newly approved antibiotic formulation is introduced to treat multi-drug resistant bacterial infections in hospitalized patients.",
+    "resource_type": "MedicinalProduct",
+    "id": 917
+  },
+  {
+    "statement": "A newly approved antibiotic formulation designed to treat resistant bacterial infections was added to the hospital\u2019s medication inventory.",
+    "resource_type": "MedicinalProduct",
+    "id": 918
+  },
+  {
+    "statement": "A newly approved insulin formulation with extended-release properties is available for managing type 1 diabetes patients.",
+    "resource_type": "MedicinalProduct",
+    "id": 919
+  },
+  {
+    "statement": "The pharmacy stocked a new formulation of extended-release metformin for improved diabetes control.",
+    "resource_type": "MedicinalProduct",
+    "id": 920
+  },
+  {
+    "statement": "A new batch of insulin glargine has been approved for use in treating patients with type 1 diabetes.",
+    "resource_type": "MedicinalProduct",
+    "id": 921
+  },
+  {
+    "statement": "A new batch of insulin vials was received, ensuring consistent supply for diabetes treatment in the outpatient clinic.",
+    "resource_type": "MedicinalProduct",
+    "id": 922
+  },
+  {
+    "statement": "A new formulation of extended-release metformin was introduced to improve glycemic control in type 2 diabetes patients.",
+    "resource_type": "MedicinalProduct",
+    "id": 923
+  },
+  {
+    "statement": "The cardiology clinic blocks appointment slots every Tuesday morning for heart failure follow-up visits.",
+    "resource_type": "Schedule",
+    "id": 924
+  },
+  {
+    "statement": "The clinic's schedule blocks 30-minute slots for flu vaccination appointments next Monday afternoon.",
+    "resource_type": "Schedule",
+    "id": 925
+  },
+  {
+    "statement": "The clinic blocks 30-minute appointment slots for flu vaccination clinics on weekday mornings.",
+    "resource_type": "Schedule",
+    "id": 926
+  },
+  {
+    "statement": "The clinic reserves 30-minute appointment slots for new diabetes education sessions every Monday and Thursday morning.",
+    "resource_type": "Schedule",
+    "id": 927
+  },
+  {
+    "statement": "The clinic reserved a room for weekly physical therapy sessions every Monday from 10 AM to 11 AM.",
+    "resource_type": "Schedule",
+    "id": 928
+  },
+  {
+    "statement": "The clinic reserves appointment slots every Tuesday morning for follow-up visits with the cardiology specialist.",
+    "resource_type": "Schedule",
+    "id": 929
+  },
+  {
+    "statement": "The clinic blocks morning slots on Tuesdays for follow-up appointments with the cardiology team.",
+    "resource_type": "Schedule",
+    "id": 930
+  },
+  {
+    "statement": "The clinic reserved a 30-minute appointment slot for a follow-up visit with Dr. Lee next Wednesday morning.",
+    "resource_type": "Schedule",
+    "id": 931
+  },
+  {
+    "statement": "The clinic sets available time slots for flu vaccination appointments next week to manage patient flow efficiently.",
+    "resource_type": "Schedule",
+    "id": 932
+  },
+  {
+    "statement": "The cardiology clinic blocks 30-minute appointment slots for follow-up visits with patients recovering from heart surgery.",
+    "resource_type": "Schedule",
+    "id": 933
+  },
+  {
+    "statement": "The clinic reserved a 30-minute appointment slot for a follow-up consultation with Dr. Lee next Tuesday morning.",
+    "resource_type": "Schedule",
+    "id": 934
+  },
+  {
+    "statement": "An available appointment slot opens tomorrow afternoon for a follow-up consultation with the cardiology clinic.",
+    "resource_type": "Slot",
+    "id": 935
+  },
+  {
+    "statement": "An available appointment slot on March 15th from 2 to 3 PM is reserved for a follow-up consultation with the cardiologist.",
+    "resource_type": "Slot",
+    "id": 936
+  },
+  {
+    "statement": "The clinic has an open appointment slot available on Tuesday at 3 PM for a follow-up consultation.",
+    "resource_type": "Slot",
+    "id": 937
+  },
+  {
+    "statement": "An available appointment time slot was reserved for a follow-up visit with the cardiologist next Tuesday morning.",
+    "resource_type": "Slot",
+    "id": 938
+  },
+  {
+    "statement": "An available appointment slot opens on March 10th at 2 PM for a follow-up cardiology consultation.",
+    "resource_type": "Slot",
+    "id": 939
+  },
+  {
+    "statement": "The clinic has an available appointment slot on Tuesday afternoon for a follow-up diabetes consultation.",
+    "resource_type": "Slot",
+    "id": 940
+  },
+  {
+    "statement": "The clinic has an available appointment slot for a follow-up visit on Monday at 2 PM.",
+    "resource_type": "Slot",
+    "id": 941
+  },
+  {
+    "statement": "The clinic reserved a 30-minute appointment slot for a follow-up diabetes consultation next Tuesday at 2 PM.",
+    "resource_type": "Slot",
+    "id": 942
+  },
+  {
+    "statement": "The clinic has an available appointment slot on Tuesday afternoon for a follow-up consultation with the cardiologist.",
+    "resource_type": "Slot",
+    "id": 943
+  },
+  {
+    "statement": "The clinic reserved a 30-minute appointment slot for a follow-up visit with the cardiologist tomorrow afternoon.",
+    "resource_type": "Slot",
+    "id": 944
+  },
+  {
+    "statement": "An available appointment slot opens Thursday afternoon for a follow-up visit with the cardiology clinic.",
+    "resource_type": "Slot",
+    "id": 945
+  },
+  {
+    "statement": "A discharge summary includes patient details, diagnosis, medications, and follow-up instructions compiled for care transition.",
+    "resource_type": "Bundle",
+    "id": 946
+  },
+  {
+    "statement": "A discharge summary includes patient details, diagnoses, medications, and follow-up instructions after hospital admission.",
+    "resource_type": "Bundle",
+    "id": 947
+  },
+  {
+    "statement": "A summary of all lab results, medication orders, and clinical notes compiled for a patient\u2019s hospital discharge documentation.",
+    "resource_type": "Bundle",
+    "id": 948
+  },
+  {
+    "statement": "A discharge summary includes patient details, diagnosis, medications, and follow-up appointments compiled for transfer to primary care.",
+    "resource_type": "Bundle",
+    "id": 949
+  },
+  {
+    "statement": "A discharge summary includes patient details, diagnoses, medications, and follow-up appointments after hospital treatment.",
+    "resource_type": "Bundle",
+    "id": 950
+  },
+  {
+    "statement": "A discharge summary includes patient details, diagnosis, medications, and follow-up instructions after hospital stay.",
+    "resource_type": "Bundle",
+    "id": 951
+  },
+  {
+    "statement": "A discharge summary includes patient details, diagnosis, lab results, and prescribed medications for follow-up care.",
+    "resource_type": "Bundle",
+    "id": 952
+  },
+  {
+    "statement": "Multiple lab results, imaging reports, and discharge summaries were compiled for the patient's hospital admission record.",
+    "resource_type": "Bundle",
+    "id": 953
+  },
+  {
+    "statement": "A discharge summary includes patient details, diagnoses, medications, and follow-up appointments from a recent hospital stay.",
+    "resource_type": "Bundle",
+    "id": 954
+  },
+  {
+    "statement": "A discharge summary includes patient details, diagnosis, medications, and follow-up instructions compiled for transfer of care.",
+    "resource_type": "Bundle",
+    "id": 955
+  },
+  {
+    "statement": "A discharge summary includes patient's medications, lab results, and follow-up appointments compiled for the primary care provider.",
+    "resource_type": "Bundle",
+    "id": 956
+  },
+  {
+    "statement": "An electronic lab result notification was sent to the primary care provider following overnight blood test completion.",
+    "resource_type": "MessageHeader",
+    "id": 957
+  },
+  {
+    "statement": "An electronic lab report was sent from the pathology department to the primary care provider for patient follow-up.",
+    "resource_type": "MessageHeader",
+    "id": 958
+  },
+  {
+    "statement": "A hospital system sends a notification to a clinic about a patient's upcoming discharge and follow-up appointment details.",
+    "resource_type": "MessageHeader",
+    "id": 959
+  },
+  {
+    "statement": "An electronic discharge summary was sent from the hospital to the primary care provider after patient hospitalization.",
+    "resource_type": "MessageHeader",
+    "id": 960
+  },
+  {
+    "statement": "An electronic notification was sent to the cardiology team about the urgent transfer of a stroke patient.",
+    "resource_type": "MessageHeader",
+    "id": 961
+  },
+  {
+    "statement": "A hospital system sends an electronic alert to a specialist about a new lab result requiring urgent review.",
+    "resource_type": "MessageHeader",
+    "id": 962
+  },
+  {
+    "statement": "A discharge summary was sent electronically from the hospital to the primary care clinic for follow-up coordination.",
+    "resource_type": "MessageHeader",
+    "id": 963
+  },
+  {
+    "statement": "An alert message was sent to the cardiology team notifying them of a new abnormal ECG result for review.",
+    "resource_type": "MessageHeader",
+    "id": 964
+  },
+  {
+    "statement": "A lab system sends a notification to the electronic health record about new blood test results for a hospitalized patient.",
+    "resource_type": "MessageHeader",
+    "id": 965
+  },
+  {
+    "statement": "An alert message was sent to the cardiology team notifying them of a critical lab result for a heart failure patient.",
+    "resource_type": "MessageHeader",
+    "id": 966
+  },
+  {
+    "statement": "A secure notification was sent to the cardiology team about a new electrocardiogram report for review.",
+    "resource_type": "MessageHeader",
+    "id": 967
+  },
+  {
+    "statement": "A hospital sends a standardized notification to primary care about a patient\u2019s discharge and follow-up care instructions.",
+    "resource_type": "MessageDefinition",
+    "id": 968
+  },
+  {
+    "statement": "A hospital system sends a standardized message to notify a primary care provider of a patient\u2019s recent hospital discharge details.",
+    "resource_type": "MessageDefinition",
+    "id": 969
+  },
+  {
+    "statement": "A hospital system sends a standardized alert to notify the primary care provider about a patient\u2019s urgent lab results.",
+    "resource_type": "MessageDefinition",
+    "id": 970
+  },
+  {
+    "statement": "An electronic alert is sent to notify the primary care provider about the patient's abnormal lab results requiring follow-up.",
+    "resource_type": "MessageDefinition",
+    "id": 971
+  },
+  {
+    "statement": "A hospital sends an automated alert to the primary care doctor when a patient is discharged from inpatient care.",
+    "resource_type": "MessageDefinition",
+    "id": 972
+  },
+  {
+    "statement": "An electronic alert is sent to notify the primary care provider of a patient\u2019s abnormal lab results.",
+    "resource_type": "MessageDefinition",
+    "id": 973
+  },
+  {
+    "statement": "A notification is sent to the primary care provider when a patient's laboratory results exceed critical values.",
+    "resource_type": "MessageDefinition",
+    "id": 974
+  },
+  {
+    "statement": "A hospital system defines the structure for sending lab results from the lab to the primary care provider\u2019s electronic record.",
+    "resource_type": "MessageDefinition",
+    "id": 975
+  },
+  {
+    "statement": "A hospital system sends a standardized alert to notify providers about a patient's critical lab result requiring immediate review.",
+    "resource_type": "MessageDefinition",
+    "id": 976
+  },
+  {
+    "statement": "A hospital sends a structured alert to notify the primary care provider about a patient's discharge and follow-up instructions.",
+    "resource_type": "MessageDefinition",
+    "id": 977
+  },
+  {
+    "statement": "An automated alert is sent to the cardiology team when a patient\u2019s ECG indicates potential atrial fibrillation.",
+    "resource_type": "MessageDefinition",
+    "id": 978
+  },
+  {
+    "statement": "A sudden allergic reaction requiring immediate administration of epinephrine in response to a bee sting.",
+    "resource_type": "EventDefinition",
+    "id": 979
+  },
+  {
+    "statement": "A hospital initiates a sepsis screening protocol for patients with suspected infection upon admission.",
+    "resource_type": "EventDefinition",
+    "id": 980
+  },
+  {
+    "statement": "A scheduled flu vaccination event for adults aged 65 and older is planned at the community health clinic.",
+    "resource_type": "EventDefinition",
+    "id": 981
+  },
+  {
+    "statement": "A protocol triggers an alert when a diabetic patient\u2019s blood sugar levels exceed 250 mg/dL during monitoring.",
+    "resource_type": "EventDefinition",
+    "id": 982
+  },
+  {
+    "statement": "A scheduled follow-up appointment is set for monitoring diabetes control three months after initial diagnosis.",
+    "resource_type": "EventDefinition",
+    "id": 983
+  },
+  {
+    "statement": "A scheduled influenza vaccination campaign begins next Monday targeting high-risk elderly patients.",
+    "resource_type": "EventDefinition",
+    "id": 984
+  },
+  {
+    "statement": "A scheduled influenza vaccination campaign will begin next Monday for all adults over 65 years old.",
+    "resource_type": "EventDefinition",
+    "id": 985
+  },
+  {
+    "statement": "A scheduled flu vaccination campaign is planned to begin next Monday for all eligible hospital staff.",
+    "resource_type": "EventDefinition",
+    "id": 986
+  },
+  {
+    "statement": "A scheduled influenza vaccination campaign will begin on October 1st for all adults over 65 years old.",
+    "resource_type": "EventDefinition",
+    "id": 987
+  },
+  {
+    "statement": "A scheduled follow-up appointment triggers a reminder for diabetes management review in three months.",
+    "resource_type": "EventDefinition",
+    "id": 988
+  },
+  {
+    "statement": "A scheduled influenza vaccination campaign will begin next Monday targeting high-risk elderly patients.",
+    "resource_type": "EventDefinition",
+    "id": 989
+  },
+  {
+    "statement": "Defines the criteria and measurement details for recording fasting blood glucose levels in adults during annual wellness exams.",
+    "resource_type": "ObservationDefinition",
+    "id": 990
+  },
+  {
+    "statement": "A standardized protocol defines how to measure oxygen saturation levels using pulse oximetry in adult patients.",
+    "resource_type": "ObservationDefinition",
+    "id": 991
+  },
+  {
+    "statement": "Defines the criteria and methods for measuring adult fasting blood glucose levels in a primary care setting.",
+    "resource_type": "ObservationDefinition",
+    "id": 992
+  },
+  {
+    "statement": "Definition of standardized criteria for measuring blood glucose levels during fasting in diabetic care monitoring.",
+    "resource_type": "ObservationDefinition",
+    "id": 993
+  },
+  {
+    "statement": "Defines the standard method and criteria for measuring fasting blood glucose levels in diabetic patient monitoring.",
+    "resource_type": "ObservationDefinition",
+    "id": 994
+  },
+  {
+    "statement": "Definition specifying how to measure and record oxygen saturation levels using pulse oximetry in adult patients.",
+    "resource_type": "ObservationDefinition",
+    "id": 995
+  },
+  {
+    "statement": "Defines the criteria and measurement methods for recording adult fasting blood glucose levels in outpatient diabetes monitoring.",
+    "resource_type": "ObservationDefinition",
+    "id": 996
+  },
+  {
+    "statement": "Defines the criteria and methods for measuring fasting blood glucose levels in adults during annual diabetes screening.",
+    "resource_type": "ObservationDefinition",
+    "id": 997
+  },
+  {
+    "statement": "Defines the criteria and methods for measuring fasting blood glucose levels during diabetes screening.",
+    "resource_type": "ObservationDefinition",
+    "id": 998
+  },
+  {
+    "statement": "Defines the criteria and methods for measuring adult fasting blood glucose levels during routine diabetes screening.",
+    "resource_type": "ObservationDefinition",
+    "id": 999
+  }
+]
